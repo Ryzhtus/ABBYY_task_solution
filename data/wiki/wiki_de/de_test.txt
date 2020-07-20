@@ -1,0 +1,1337 @@
+Die neueste Version, FineReader 14, wurde am 25.. Januar 2017 veröffentlicht.
+ABBYY lizenziert die OCR-Technologie von FineReader an mehrere Unternehmen wie Fujitsu, Panasonic, Xerox, Samsung und andere.
+Heute sind auf ABBYY über mehr als 400 Patente und Patentanmeldungen weltweit registriert.. Das Unternehmen nutzt seine technologische Expertise, um die digitale Transformation zu erleichtern und konzentriert sich auf Lösungen für Unternehmen, soziale Einrichtungen und Behörden.
+Die ABBYY-Software ist integraler Bestandteil einer Reihe von Lösungen für Robotic Process Automation (RPA), wie beispielsweise von BluePrism und UiPath.
+Im Jahr 2017 trennte sich Language Services, eine Übersetzungs- und Lokalisierungsagentur, die früher unter dem Namen "ABBYY Language Services" oder kurz "ALS" bekannt war, von ABBYY und wurde zu einem unabhängigen Unternehmen.
+
+
+== Produkte ==
+ABBYY FlexiCapture
+ABBYY Text Analytics for Contracts
+ABBYY FineReader
+ABBYY FineReader Engine
+ABBYY Real-Time Recognition SDK
+ABBYY Mobile Applications
+
+
+== Weblinks ==
+offizielle Webpräsenz auf abbyy.com
+
+
+== Einzelnachweise ==Dessen Funktionsumfang ähnelt dem anderer Branchenlösungen wie Google Analytics.. Trotz geringerem Bekanntheitsgrad ist Yandex.Metrica bei Nutzern beliebt, da es als Teil seiner Wettbewerbsstrategie erweiterte Funktionen, wie Session Replay oder Scroll Maps, kostenfrei bereitstellt.
+
+
+== Eigentümer und Management ==
+»Yandex« ist eine Gesellschaft mit begrenzter Haftung, welche eine 100%ige Tochtergesellschaft der niederländischen Yandex N.V.
+ist.. Die Aktiengesellschaft hat zwei Aktien-Typen ausgegeben: Typ A und Typ B.
+Die Aktien des Typs B haben das zehnfache Stimmrecht.. Mit ihrer Hilfe wird das Unternehmen gesteuert.
+Dieses System, welches das Unternehmen vor feindlichen Übernahmen bewahren soll, haben die Gründer von »Yandex« Arkadij Woloschem und Ilya Segalowitsch zu einer Zeit eingeführt, in der es ihnen darum ging, Yandex vor der Übernahme durch den russischen Staat zu schützen.. Im Jahr 2009 hat Yandex der staatlichen »Sberbank Russland« eine »goldene Aktie« für 1 € verkauft.
+Diese Aktie gibt dem russischen Staat weitreichende Vollmachten über die Kontrolle der Aktienpakete des Unternehmens.. Seit August 2009 benötigen alle Aktionäre, die mehr als 25 % des Stammkapitals oder der Unternehmensstimmen erwerben wollen, die Zustimmung des Verwaltungsrates der »Sberbank Russlands«.
+Über 61 % der Yandex-Aktien gehören nach eigenen Angaben Investmentfonds (ru-Net Holdings, Baring Vostok Capital Partners und Tiger Technologies), 24 % sind im Besitz von Yandex-Führungskräften und -Mitarbeitern, 10 % gehören privaten Investoren und ehemaligen Mitarbeitern, 5 % sind Inhaber von Aktienoptionen.
+
+
+=== Management ===
+Arkadi Jurjewitsch Wolosch, Gründungsdirektor und CEO
+Ilja Walentinowitsch Segalowitsch, CTO 2000–2013
+Jelena Kolmanowskaja, Chefredakteurin
+Arkadi Borkowski – CTO von Yandex Labs
+
+
+== Produkte ==
+* = nicht auf Englisch verfügbar
+
+
+== Literatur ==
+Christian Meier: Kleiner Gigant.
+Über die Geschichte von Yandex.. In: Die Zeit.
+19.. Januar 2012, S.
+24.
+
+
+== Weblinks ==
+
+www.yandex.ru (russisch)
+www.yandex.com (englisch)
+Where Google Isn't Goliath (englisch)
+
+
+== Einzelnachweise ==Mai 2014 zum Recht auf Vergessenwerden hat Google einen Beirat mit externen Experten aus europäischen Ländern gegründet, der bei der Erarbeitung eines Lösch-Leitfadens beraten soll.. Aus Deutschland gehört dem ohne Entlohnung tätigen, achtköpfigen Gremium die ehemalige Bundesjustizministerin Sabine Leutheusser-Schnarrenberger an.
+Weitere Mitglieder sind der Wikipedia-Mitgründer Jimmy Wales, die französische Journalistin Sylvie Kauffmann (Zeitung Le Monde), der ehemalige spanische Datenschutzbeauftragte José Luis Piñar Mañas, der UN-Sonderberichterstatter für das Recht auf Meinungsfreiheit und freie Meinungsäußerung, Frank William La Rue, die belgische Medienrechtsprofessorin Peggy Valcke von der Katholieke Universiteit Leuven, der italienische Informationsethik-Philosoph Luciano Floridi (Universität Oxford) und die Direktorin des polnischen Trust for Civil Society in Central and Eastern Europe, Lidia Kolucka-Zuk.
+
+
+=== Lumen Database ===
+Die Lumen Database, eine von einem Institut der Harvard University für Google betriebene Datenbank, beinhaltet Informationen über Änderungen am Suchindex auf richterliche Anordnungen hin.
+
+
+== Easter Eggs ==
+Auf einigen Websites versteckten Google-Programmierer Easter Eggs, also scherzhafte Überraschungen.. Einige werden bekannt, so etwa:
+
+Einige Text-Eingaben werden als Zahlen gedeutet.
+Dazu gehören “answer to life, the universe and everything”, eine Anspielung auf Douglas Adams’ Werk Per Anhalter durch die Galaxis, in dem 42 die Antwort auf die Frage „nach dem Leben, dem Universum und dem ganzen Rest“ ist, “number of horns on a unicorn” (deutsch: „Anzahl der Hörner eines Einhorns“) sowie the loneliest number (Deutsch: Die einsamste Zahl) mit dem Wert 1, und “once in a blue moon” ist 1.16699016 × 10−8 Hertz.. Mit diesen Eingaben sind auch Berechnungen möglich.
+Auf einige Anfragen erhält man scherzhafte Antworten.
+Beim englischen Suchbegriff “anagram” (deutsch: „Anagramm“) erhält man: “Did you mean: nag a ram” (deutsch: „Meinten Sie: nag a ram“).. Gibt man „Anagramm“ auf Deutsch ein, erscheint ebenfalls ein Anagramm von Anagramm: Meinten Sie: „mama rang?“ und bei der Suche nach “recursion” (deutsch: „Rekursion“) wird der Vorschlag “Did you mean: recursion” angezeigt, obwohl man das Wort richtig schrieb.
+Klickt man darauf, erscheint die Seite wieder, mit demselben Vorschlag.. In der deutschen Google-Ausgabe ist dies auch mit "Rekursion" möglich.
+Wer seit dem 27.
+April 2012 „Zerg Rush“ sucht, sieht kleine zerstörende Kreise.. Sie lassen Suchergebnisse von oben herab verschwinden, bis die Kreise ein bildschirmfüllendes „GG“ (für: Good Game) bilden.
+Man kann die Kreise im Mauszeiger-Fadenkreuz abschießen wie im Spiel StarCraft, nur ist dies schwierig.
+Am unteren Rand der internen Suchstatistik Google Zeitgeist 2012 befindet sich ein Balken in den Google-Farben.. Fährt man mit dem Mauszeiger darüber, erscheint der Android-Roboter und tanzt im Gangnam Style.
+Gibt man beim amerikanischen „Google Bilder“ das Wort Atari Breakout ein, erscheint das Spiel Atari Breakout.
+Dabei kann man alle Bildergebnisse mit einem Ball abschießen.. Bei Erfolg folgt die nächste Seite der Bildergebnisse.
+Verliert man alle Leben, beginnt man erneut.. Das Easter Egg findet man nicht in der deutschsprachigen Bild-Suche.
+
+
+== Kritik ==
+
+
+=== Datenschutz ===
+Die Suchmaschine Google und Google Inc., die nach Gründung anfänglich eine sehr gute Presse hatten, werden in jüngerer Zeit häufig wegen Datenschutzproblemen kritisiert.
+So wurden nach Ankündigung im Rahmen einer angeblichen „Vereinfachung“ der Datenschutzbestimmungen ab März 2012 Daten über Nutzer quer über alle Dienste von Google Inc.. ausgewertet, um einen möglichst vielfältigen Wissensstand über alle Lebensbereiche eines Nutzers aufbauen zu können.
+Die Personalisierung der Suchergebnisse wurde unter anderem von der Wochenzeitung Die Zeit kritisiert.
+Im Juni 2011 schrieb sie: „Wenn wir mit Google suchen oder Neuigkeiten bei Facebook lesen, passt das Netz sich unmerklich unseren Vorlieben an.. Was bedeutet diese Verengung der Welt?“
+
+
+=== Mögliche Manipulation der Suchergebnisse durch Google ===
+Wiederholt werden Vorwürfe der Manipulation der Suchergebnisse durch Google geäußert, die allerdings zumeist nicht beweisbar sind.
+In internen Emails, die im September 2018 publik wurden, diskutierten Google-Mitarbeiter, wie sie nach Präsident Trumps Einreisestopp für Bürger aus sieben Ländern die Suche manipulieren könnten, um die Benutzer auf Pro-Migrations-Seiten zu lenken und ihnen zu zeigen, wie man Politiker und Regierungsstellen in der Sache kontaktieren kann.. Google bestreitet, dass diese Ideen umgesetzt wurden.
+
+
+=== Anpassungen für den chinesischen Markt: „Project Dragonfly“ ===
+Google arbeitete für die Rückkehr auf den chinesischen Markt am „Projekt Dragonfly“.
+Obwohl Google kaum Details dazu bekannt gab, bestand die Befürchtung, dass diese Suchmaschine Begriffe auf Wunsch der chinesischen Regierung zensieren oder dem Regime Zugriff auf individuelle Daten der Nutzer geben wird.. Laut dem mit der Programmierung von Projekt Dragonfly betrauten Softwareentwickler Jack Poulsen, der aus Protest kündigte, sollte Google auf Wunsch Pekings innerhalb des neuen Produkts Suchanfragen chinesischer Nutzer mit deren individuellen Handynummern verknüpfen und so völlig transparent machen, wer in China nach welchen Begriffen sucht.In einer Anhörung im Justizausschuss des US-Senats im Juli 2019 erklärte Karan Bhatia, bei Google für die Regierungsbeziehungen zuständig, dass das Projekt eingestellt wurde.
+Ein Firmensprecher bestätigte daraufhin: „Wir haben keine Pläne, eine Suchapplikation in China zu starten.. Es laufen keine Arbeiten an einem solchen Projekt.“ Zuvor berichtete das Magazin The Intercept, dass es Hinweise gäbe, dass an dem Code für das Projekt weiterhin Änderungen vorgenommen würden.
+
+
+== Siehe auch ==
+Google News, Nachrichten-Websites, die auf Google besonders häufig abgerufen werden
+Google Maps, Online Landkartenwerk mit der Möglichkeit eines Routenplaners
+Google Books, ein Suchdienst, mit dem eigene Digitalisate und Onlinebücher im Volltext durchsucht werden können
+Google Scholar, Suchmaschine für die allgemeine Literaturrecherche wissenschaftlicher Dokumente
+Google Trends, bietet Informationen über die Popularität von Google-Suchanfragen
+EU-Kartellkampagne gegen Google
+Liste von Internet-Suchmaschinen
+Startpage – Suchmaschine, die anonymisierte Google-Ergebnisse liefert
+
+
+== Literatur ==
+
+
+=== Berichte ===
+Florian Rötzer: Die Welt ist keineswegs alles, was Google auflistet.
+In: Telepolis.. 25.
+Oktober 2002, abgerufen am 18.. Dezember 2017.
+
+Internet: Die wachsende Macht der Suchmaschinen (Memento vom 9.. März 2014 im Internet Archive), FAZ, 28.
+Juni 2006
+Gerald Reischl: Die Google-Falle.. Die unkontrollierte Weltmacht im Internet.
+5.. Auflage.
+Carl Ueberreuter Verlag, Wien 2008, ISBN 978-3-8000-7323-8.. 
+Lars Reppesgaard: Das Google-Imperium.
+Murmann-Verlag GmbH, Hamburg 2008, ISBN 978-3-86774-046-3.. 
+Douglas Edwards: Google-Mitarbeiter Nr.
+59.. Redline Verlag, München 2012, ISBN 978-3-86881-331-9.
+
+Jo Bager: Gooliath.. In: c’t.
+Nr.. 11.
+Heise Zeitschriften Verlag, 5.. Mai 2014, ISSN 0724-8679, S.
+128–133.. 
+Torsten Fricke, Ulrich Novak, Robert Epstein, Thomas Höppner: Die Akte Google.
+Wie der US-Konzern Daten missbraucht, die Welt manipuliert und Jobs vernichtet.. Herbig, München 2015, ISBN 978-3-7766-2763-3.
+
+
+
+=== Wissenschaftliche Werke ===
+Henk van Ess: Der Google-Code.. Addison-Wesley, München 2011, ISBN 978-3-8273-3036-9.
+Kai Lehmann, Michael Schetsche, Die Google-Gesellschaft.
+Vom digitalen Wandel des Wissens, (2.. Auflage), Bielefeld: transcript 2007, ISBN 978-3-89942-780-6
+Steven Levy: Google Inside.
+Wie Google denkt, arbeitet und unser Leben verändert.. mitp, Heidelberg 2012, ISBN 978-3-8266-9243-7.
+(Amerikanische Originalausgabe: In the Plex.. How Google Thinks, Works and Shapes Our Lives.
+Simon & Schuster, New York 2011)
+Marcel Machill, Markus Beiler, Martin Zenker: Journalistische Recherche im Internet.. Bestandsaufnahme journalistischer Arbeitsweisen in Zeitungen, Hörfunk, Fernsehen und Online.
+In: Schriftenreihe Medienforschung der Landesanstalt für Medien Nordrhein-Westfalen.. Band 60.
+Vistas, 2008, ISBN 978-3-89158-480-4 (Journalistische Recherche im Internet (Memento vom 19.. April 2009 im Internet Archive) [PDF]).
+
+Birgit Stark, Dieter Dörr und Stefan Aufenanger (Hrsg.): Die Googleisierung der Informationssuche.. Suchmaschinen zwischen Nutzung und Regulierung.
+Verlag de Gruyter, Berlin/Boston, Massachusetts, USA 2014, ISBN 978-3-11-033818-8.
+
+
+== Weblinks ==
+
+Offizielle Website
+Offizieller Blog des deutschen Google-Teams
+Literatur zu Google im Katalog der Deutschen Nationalbibliothek
+
+
+== Einzelnachweise ==Oktober 2012, zusammen mit Windows 8, veröffentlicht.. Am 29.
+Oktober 2012 erschien Microsoft Windows Phone 8 mit der neuen Unterstützung von Mehrkernprozessoren und microSD-Karten sowie der Integration des Internet Explorer 10.
+Seit 2013 gehört Microsoft zu den ersten Hauptmitgliedern der FIDO-Allianz, die den Industriestandard Universal Second Factor (U2F) für eine allgemein anwendbare Zwei-Faktor-Authentifizierung entwickelt hat.
+Das Kinect-Empfangsgerät wurde für die neue Microsoft-Konsole Xbox One aufgerüstet und die Neuerungen im Mai 2013 präsentiert.. Ausgestattet ist das neue Kinect mit einer HD-Kamera, einem leistungsfähigeren Prozessor, einer Feinerkennung von Bewegungen und einem Herzfrequenzmesser.
+Die Xbox One ist ausgestattet mit einem BluRay-Laufwerk, 8 GB Arbeitsspeicher sowie einer 500-GB-Festplatte.. Auf der E3-Messe 2013 in Los Angeles präsentierte Microsoft Spiele wie Assassin’s Creed IV: Black Flag, Battlefield 4 und Call of Duty: Ghosts, welche alle für die Xbox One angeboten wurden.
+Im März 2013 wurde der Patent Tracker, ein Tool zum Suchen von Patenten in der Microsoft-Datenbank, auf den Markt gebracht.
+Am 19.. Juli 2013 erlebte die Microsoft-Aktie den größten Absturz seit Börsengang im Jahr 2000 und verzeichnete einen Verlust von umgerechnet etwa 24 Milliarden Euro.
+Am 3.. September 2013 übernahm Microsoft die Mobilfunksparte der Firma Nokia.Nachdem Steve Ballmer seinen Rücktritt als CEO bereits im August 2013 bekanntgab, trat Satya Nadella, zuvor im Cloud-Computing-Segment des Unternehmens beschäftigt, im Februar 2014 die Nachfolge an.
+Ebenso trat Bill Gates als Chairman zurück, um sich auf seine Position als technischer Berater des Unternehmens zu konzentrieren; sein Nachfolger ist John W.. Thompson.
+
+
+=== Umweltprofilierung ===
+Im Januar 2020 gab Microsoft Pläne bekannt, nach denen das Unternehmen bis 2050 den gesamten CO2-Fußabdruck, den es seit 1975 verursacht hat, wieder gutzumachen.
+Des Weiteren beliefert Microsoft Im Projekt "AI for Earth" der Vereinten Nationen beliefert Microsoft nach eigenen Angaben mehr als 500 Organisationen mit Programmen, die auf künstlicher Intelligenz (KI) basieren.. Im April desselben Jahres präsentierte Präsident Brad Smith die KI-Plattform Planetary Computer, die Wissenschaftlern, Naturschutzorganisationen und Kunden des Unternehmens helfen soll, gegen das weltweite Artensterben vorzugehen.
+Das neue System könnte laut Microsoft anhand von Satellitenaufnahmen die Baumdichte in Wäldern schneller analysieren oder einen Algorithmus mit Messdaten von Gewässern füttern, um das Überschwemmungsrisiko verschiedener Gebiete zu berechnen.. Zusammen mit dem Umweltanalyseverband GEO hat Microsoft dazu ein Förderprogramm ausgelobt, auf das sich Forschungsprojekte bewerben können, die das "Planetary Computer"-Projekt nutzen wollen.
+
+
+== Niederlassungen im deutschsprachigen Raum ==
+
+
+=== Deutschland ===
+Die Microsoft Deutschland GmbH wurde 1983 gegründet, ihr Unternehmenssitz ist in München-Schwabing.
+Regionalbüros befinden sich in Aachen (European Microsoft Innovation Center) von 2003 bis 2013, Bad Homburg vor der Höhe, Berlin, Böblingen, Hamburg, Köln und Walldorf.. Das Unternehmen beschäftigt in Deutschland über 2700 Mitarbeiter.
+Von Mitte September 2012 bis zum Frühjahr 2016 leitete Christian P.. Illek den Vorsitz der Geschäftsführung (zuvor hatte die Position Ralph Haupter für 2 Jahre und Achim Berg für drei Jahre inne).
+Im Frühjahr 2016 übernahm Sabine Bendiek die Leitung von Microsoft Deutschland.. Seitdem Haupter im April 2012 als CEO die Verantwortung für Microsoft in Großchina übernahm, führt Jane Gilson bei Microsoft Deutschland die Geschäfte interimsmäßig weiter.
+2013 beschloss Microsoft, sich auf die drei Hauptstandorte München, Köln und Berlin zu konzentrieren und Böblingen, Bad Homburg und Hamburg aufzulösen.. Am 8.
+November 2013 gab das Unternehmen bekannt, im Sommer 2016 den Firmensitz von Unterschleißheim nach Schwabing im Norden Münchens zu verlegen.
+Seit Mitte September 2016 befindet sich die Zentrale an der Walter-Gropius-Straße in Schwabing.. Dort befindet sich ein 26.000 Quadratmeter großer, moderner Bürokomplex.
+
+
+=== Schweiz ===
+In der Schweiz ist Microsoft seit 1989 präsent und beschäftigt als Microsoft Schweiz GmbH in Wallisellen, Bern, Basel und Genf über 620 Mitarbeiter.
+
+
+=== Österreich ===
+Die Microsoft Österreich GmbH wurde 1991 gegründet und hat ihren Sitz in Wien.
+Das Unternehmen beschäftigt 350 Mitarbeiter.
+
+
+== Kritik ==
+Wie viele amerikanische Großkonzerne, die hauptgeschäftlich geistige Eigentumswerte vertreiben, führt Microsoft kaum Steuern ab.. Hierfür wird auf umstrittene Umbuchungstricks wie Double Irish With a Dutch Sandwich zurückgegriffen.Im November 2017 wird Microsoft in den Veröffentlichungen der Paradise Papers aufgelistet.
+
+
+=== Monopolisierung ===
+Viele Kritiker beziehen sich auf die monopolistische Einstellung von Bill Gates.
+Laut ihnen sei Microsofts Unternehmensstrategie wettbewerbsfeindlich und nicht kundenorientiert.. Wichtigste Änderungen neuer Produktversionen beruhen laut den Kritikern insbesondere auf folgenden Motivationen:
+
+Erschwerung des Einsatzes von Produkten anderer Hersteller (z.
+B.. durch Veränderung von Standards oder ständige Erweiterung des Betriebssystems um Zusatzfunktionen, die von Drittanbietern bereits angeboten werden).
+Erzeugung eines Zwanges, auf die neueste Version umzusteigen (z.
+B.. durch Schaffung von Inkompatibilitäten, Verpflichtung von OEM-Herstellern, auf die neueste Betriebssystemplattform umzustellen)
+Sicherung der Monopolstellung (z.
+B.. durch Datei- und Software-Inkompatibilitäten, Netzwerk-Inkompatibilitäten, Marketing)Die marktbeherrschende Stellung bei PC-Betriebssystemen wird von Kritikern maßgeblich dem Talent von Gründer Bill Gates zur Eroberung von Märkten zugerechnet.
+Die Qualität der Microsoft-Produkte in der Fachwelt wird viel und heftig diskutiert.. Kritiker brandmarkten teilweise die Herkunft und Verbreitungspolitik der erfolgsentscheidenden ersten Microsoft-Produkte als unethisch (Billigkauf und Vermarktung einer ausdrücklich als Wegwerf-System konzipierten Software).
+Zudem wurde Bill Gates vorgeworfen, die Allgemeinheit an die zweifelhafte „Wahrheit“ gewöhnt zu haben, dass Fehler in Software und plötzliche Ausfälle von Computern im laufenden Betrieb, sogenannte Abstürze, als normal hinzunehmen seien.. Infolge einer geschickten Marketing- und Einflussnahmepolitik Microsofts wird heute fast jeder neue PC mit einem vorinstallierten Windows-System ausgeliefert.
+Weiterhin werden das Unterlaufen von Softwarestandards und das Ausnutzen der monopolartigen Marktstellung von Microsoft kritisiert.
+
+
+=== Rabatte für ausschließlichen Windows-Vertrieb ===
+Microsoft bietet großen Herstellern außergewöhnlich günstige Konditionen für OEM-Software an.
+Im Rahmen des Kartellverfahrens des US-Justizministeriums gegen Microsoft ist im Jahr 2001 bekannt geworden, dass Microsoft diese Konditionen intransparent gestaltet und in einigen Fällen mit der Verpflichtung verbunden hat, keine Desktop-Rechner ohne ein Betriebssystem von Microsoft auszuliefern.. Dieses Vorgehen wurde durch die außergerichtliche Einigung im Kartellverfahren für die Zukunft untersagt.
+
+
+=== Produktbündelungen ===
+Der hohe Marktanteil bei Betriebssystemen stellt ein Quasi-Monopol dar und erleichtert es Microsoft, neue Techniken über die Windows-Plattform schnell im Markt zu verbreiten.
+Dies wurde z.. B.
+mit dem Internet Explorer erreicht, der in (aktualisierten) Windows-95-Versionen vorinstalliert war und in späteren Windows-Versionen sogar mit dem System verschmolzen wurde.. Zeitweise erreichte der Internet Explorer dadurch einen Marktanteil von bis zu 85 % und stach durch seinen Wettbewerbsvorteil den damaligen Konkurrenten Netscape aus.
+Dieser Browserkrieg war letztlich der Auslöser des US-Kartellverfahrens gegen Microsoft im Jahr 1997.. In der Europäischen Union wurde Microsoft zudem verpflichtet, das Betriebssystem auch ohne Windows Media Player anzubieten.
+
+
+=== Wettbewerbsverletzungen ===
+Microsoft wird oft kritisiert und gemaßregelt.
+So hat die Europäische Kommission seit 2004 zahlreiche Bußgelder gegen Microsoft wegen Verletzung von Wettbewerbsgesetzen verhängt.. Dem Konzern wurden Auflagen in Bezug auf die Offenlegung von Schnittstellenspezifikationen und die Entkoppelung von Produkten gemacht.
+Die bedeutendsten Kritikpunkte an Microsoft sind
+
+der Missbrauch seiner Position als Marktführer für eine wettbewerbswidrige Vertragspolitik gegenüber wirtschaftlich abhängigen Unternehmen,
+die wettbewerbswidrige Bündelung verschiedener Produkte,
+das Unterlaufen von etablierten Softwarestandards mit dem Ziel der Kundenbindung an Microsoft als Folge von Inkompatibilitäten: „Embrace, Extend and Extinguish“,
+lange Zeit nicht behobene Sicherheitslücken in Betriebssystemen und Anwendungen und
+die Verzögerung von softwaretechnischen Innovationen aus unternehmensstrategischen Motiven.Zu den ersten drei Kritikpunkten waren und sind auch derzeit immer wieder zahlreiche Gerichtsprozesse anhängig.
+Der Unmut über Geschäftspolitik und die in den Augen der Kritiker häufig hinter dem Stand der Technik zurückgebliebene Qualität der Produkte hat wesentlich zur Entstehung einer Open-Source-Bewegung beigetragen, die bessere Alternativen zu proprietären Produkten wie denjenigen von Microsoft bieten will.. Mit der Veröffentlichung der internen „Halloween-Dokumente“ wurde 1998 bekannt, dass Microsoft-Analysten in freier Software, insbesondere GNU/Linux, einen starken Konkurrenten sahen und Strategien zur Bekämpfung vorschlugen.
+
+
+=== Datenschutzverletzungen ===
+Im Jahr 2002 erhielt Microsoft den „Lifetime-Award“ der deutschen Big Brother Awards.
+Der Negativpreis wurde „vor allem für seine Verdienste bei der flächendeckenden Einführung von Kontrolltechnologie für Urheberrechte: Digital Rights Management“ verliehen.. Microsoft fiel positiv auf, weil es den Preis persönlich durch ihren damaligen deutschen Konzerndatenschutzbeauftragten Sascha Hanke abholen ließ, was bis dahin kein Preisträger gewagt hatte.Außerdem geriet der Konzern in die Kritik mithilfe des hauseigenen Media Players Nutzerverhalten auszuspionieren.
+Auch SpyNet (Microsoft) und der Virenscanner Microsoft Security Essentials gerieten in die Kritik, dem Sammeln von Benutzerinformationen zu dienen.2018 gab es wieder einen deutschen Big Brother Award für die Firma – diesmal in der Kategorie Technik für die kaum deaktivierbare Telemetrie (das ist die Übermittlung von Diagnose-Daten) in „Windows 10“.
+
+
+=== Mitarbeiterbeurteilung ===
+Im November 2013 änderte Microsoft – nach jahrelanger Kritik – sein System der Mitarbeiterbeurteilung (bzw.. Beurteilung ihrer Leistungen) grundlegend.
+Bisher verwendete Microsoft dazu das sogenannte Stack Ranking (in anderen Unternehmen als Forced Ranking bekannt) gemäß dem Konzept der Vitality Curve: Innerhalb eines Teams musste es einen festen Prozentsatz von Top-Leuten, Normalsterblichen und „Minderleistern“ geben – egal, wie gut das Team insgesamt und die einzelnen Mitarbeiter im Arbeitsalltag wirklich waren.
+Selbst wenn ein Chef mit allen Leuten seines Teams höchst zufrieden war: Er war gezwungen, vermeintliche „Minderleister“ zu identifizieren und zu benennen; die „Normalverteilung“ müsse eingehalten werden.
+
+
+=== Prozesse ===
+
+
+==== Rechtsstreit mit der Europäischen Union ====
+Nachdem 1998 das Softwareunternehmen Sun Microsystems gegen den Mitbewerber Microsoft Beschwerde bei der EU-Kommission eingelegt hatte, verhängte die Europäische Kommission unter Mario Monti nach vierjährigen Ermittlungen im März 2004 ein Bußgeld in Höhe von 497 Mio.. Euro.
+Die Kommission sowie die Beschwerdeführer European Committee for Interoperable Systems (ECIS) und die Software and Information Industry Association hatten Microsoft vorgeworfen, seine marktbeherrschende Stellung beim PC-Betriebssystem Windows auf wettbewerbswidrige Weise zur Erlangung der Marktführerschaft im Servermarkt eingesetzt zu haben.. Außerdem wurde erneut eine wettbewerbswidrige Bündelung des Betriebssystems mit Anwendungssoftware festgestellt.
+Die EU-Kommission forderte, der Konkurrenz bisher geheim gehaltene Schnittstelleninformationen für die Kommunikation mit Windows-Serversystemen zur Verfügung zu stellen und eine Windows-Version ohne Microsofts Media-Player anzubieten.. Microsoft bot in der Folge ein Windows ohne Media-Player an, allerdings zum gleichen Preis wie die Version mit Media-Player; daher fand die abgespeckte Version so gut wie keine Käufer.
+Am 12.. Juli 2006 verhängte die EU-Kommission über Microsoft ein Bußgeld in Höhe von 280,5 Mio.
+Euro wegen Nichterfüllung der im März 2004 festgelegten Auflagen.. Am 17.
+September 2007 wies ein Europäisches Gericht erster Instanz die Beschwerde von Microsoft gegen die Europäische Union zurück und erklärte die Strafzahlung in Höhe von 497 Mio.. Euro für gerechtfertigt.
+Im Oktober 2007 sagte Microsoft zu, die wichtigsten Auflagen der Wettbewerbsbehörde zu erfüllen und verzichtete auf die Berufung gegen das Urteil; damit wurde der Rechtsstreit beendet.Am 27.. Februar 2008 verhängte die Kommission erneut ein Bußgeld in Höhe von 899 Mio.
+Euro, weil das Unternehmen die im Jahr 2004 gesetzten Auflagen, Schnittstelleninformationen für Konkurrenten offenzulegen, nicht erfüllt habe.. Ende Juni 2012 bestätigte der Europäische Gerichtshof das Bußgeld, allerdings wurde die Summe auf 860 Mio.
+Euro herabgesetzt.. Dabei handelt es sich um die höchste bis dahin von einem EU-Gericht bestätigte gegen ein Unternehmen verhängte Strafe.
+Damit summierten sich die bisher geleisteten Strafzahlungen auf über 1,6 Mrd.. Euro.Wegen Verstoßes gegen das Kartellrecht belegte die EU am 6.
+März 2013 Microsoft erneut mit einer Geldbuße, diesmal in Höhe von 561 Millionen Euro.. Die Kommission warf dem Konzern vor, es im Zeitraum von Mai 2011 bis Juli 2012 beim Betriebssystem Windows 7 versäumt zu haben, den Nutzern neben dem hauseigenen Internet Explorer auch Browser von Konkurrenten für das Surfen im Internet anzubieten.
+Auf diese Weise habe Microsoft seine marktbeherrschende Stellung ausgenutzt und Kunden zum Benutzen eigener Produkte gezwungen.
+
+
+==== Weitere Prozesse ====
+Im Mai 2003 einigte sich Microsoft im Rechtsstreit um Netscape mit AOL Time Warner.. Microsoft bezahlte in der Folge 750 Millionen US-Dollar.
+Im Juli 2003 erfolgte mit der Zahlung von 26 Millionen US-Dollar an den Spiele-Eingabegerätehersteller Immersion die Beilegung des Streits um die Force-Feedback-Technik.
+Im Streit um das US-Patent Nr.
+5.838.906 wurde Microsoft am 11.. August 2003 zur Zahlung von rund 521 Millionen US-Dollar an das Software-Unternehmen Eolas Technologies verurteilt.
+Das von Microsofts Webbrowser Internet Explorer verletzte Patent ermöglicht den Zugang zu interaktiven Programmen, die auf Webseiten eingebettet sind.
+Microsoft und Be Inc.. einigten sich am 6.
+September 2003 außergerichtlich auf die Zahlung von 23,3 Millionen US-Dollar, worauf der Hersteller des Betriebssystems BeOS seine wegen Wettbewerbsverzerrung eingebrachte Klage gegen Microsoft zurückzog.
+Am 3.. Oktober 2003 wurde gegen Microsoft eine Klage mit dem Vorwurf eingereicht, der Softwarehersteller begünstige die Verbreitung von Viren, Würmern und anderen Angreifern durch schlechte Sicherheitsmechanismen und seine Geschäftspraktiken, außerdem informiere Microsoft die Kunden nicht ausreichend über die Gefahren.
+Gegen Microsoft wurden mehr als 30 Klagen wegen Patentverletzungen eingereicht: Sun wegen Java, Intertrust wegen DRM-Technik, Burst.com wegen Streaming-Technologie.
+Im März 2005 zahlte Microsoft 60 Millionen US-Dollar Lizenzgebühren an Burst.com zur Beilegung des Patentrechtsstreits.
+Microsoft und Sun legten im April 2004 ihre juristischen Auseinandersetzungen bei, wobei Microsoft an SUN 700 Millionen US-Dollar für die Kartelldelikte und 900 Millionen für die Nutzung von Patenten bezahlt hat.. Gleichzeitig kündigten beide Unternehmen eine breite Zusammenarbeit an.
+Gateway ließ im April 2005 gegen eine Zahlung von 150 Millionen Dollar alle kartellrechtlichen Ansprüche gegen Microsoft fallen.
+Nach rund 10-jährigem Rechtsstreit einigten sich Microsoft und IBM auf die Zahlung von 775 Millionen US-Dollar.
+Zusätzlich erhielt IBM eine Gutschrift über 75 Millionen für Microsoft-Software.. Unter anderem wird Microsoft vorgeworfen, beim Kauf von Software die IBM Corporation zu benachteiligen.
+RealNetworks zog sich am 11.
+Oktober 2005 aus Kartellverfahren in der Europäischen Union und Südkorea sowie aus einer Klage in den USA zurück.. Zuvor hatte Microsoft der Zahlung von 761 Millionen US-Dollar an den Netzwerk-Streaming-Spezialisten zugestimmt.
+2007 wurde eine Sammelklage gegen Microsoft und das Handelsunternehmen Best Buy vom United States Court of Appeals for the Ninth Circuit in San Francisco – trotz Bedenken – auf Grundlage des RICO Act zugelassen.
+Die Klage war im April 2000 durch James Odom angestrengt worden, der beiden Unternehmen Betrug vorwarf, da sie bei Käufen über Kreditkarten Kundeninformationen austauschten, ohne die betreffenden Kunden darüber zu informieren.. Microsoft hatte sich nach einer Investition von 200 Millionen US-Dollar in Best Buy verpflichtet, Werbung für dieses Unternehmen zu machen, im Gegenzug sollte der Händler Produkte von Microsoft bewerben.
+Laut Heise online verurteilte im April 2009 ein Geschworenengericht in Rhode Island Microsoft dazu, Schadenersatz in Höhe von 388 Millionen US-Dollar zu zahlen.
+Nach Ansicht der Geschworenen in dem seit Oktober 2003 laufenden Prozess, verletzt das von Microsoft zur Lizenzierung von Windows XP und einigen Office-Produkten benutzte Verfahren ein Patent des Unternehmens Uniloc.. Inzwischen wurde das Urteil jedoch im Revisionsverfahren aufgehoben.
+
+
+== Filme ==
+Die Silicon Valley Story (1999)
+Die Microsoft-Story (2013)
+Das Microsoft-Dilemma (2018)
+
+
+== Literatur ==
+Satya Nadella, Greg Shaw, Jill Tracie Nichols: Hit Refresh.
+Wie Microsoft sich neu erfunden hat und die Zukunft verändert.. 2.
+Auflage.. Plassen, Kulmbach 2018, ISBN 978-3-86470-483-3.
+(Mit Quellenangaben und Literaturhinweisen)
+R.. Sietmann: Das Microsoft-Monopol.
+In: c’t 2002, Heft 22, S.. 96–101.
+A.
+Roesler, B.. Stiegler (Hrsg.): Microsoft – Medien, Macht, Monopol.
+Suhrkamp Verlag, Frankfurt/M.. 2002, ISBN 3-518-12281-9.
+David, Bank: Microsoft Monopoly, wie Bill Gates die Zukunft seines Unternehmens aufs Spiel setzt.
+Econ, München 2001, ISBN 3-430-11188-9.
+Wendy Goldman Rohm: Die Microsoft Akte.. Der geheime Fall Bill Gates.
+Econ, München u.. a.
+1998, ISBN 3-430-17869-X.
+Paul Carroll: Der Computerkrieg.. Heyne Business Verlag, München 1994, ISBN 3-552-04628-3.
+Daniel Ichbiah: „Die Microsoft Story“.
+Heyne Business Verlag, München 1996.. (Originalausgabe: The Making of Microsoft.
+Prima Publishing, Rocklin (Kalifornien) 1991)
+James Wallace, Jim Erickson: Mr.. Microsoft.
+Die Bill-Gates-Story.. Ullstein Verlag, 1993.
+(Originalausgabe: Hard Drive: Bill Gates and the Making of the Microsoft Empire.. HarperBusiness, 1993).
+
+
+== Weblinks ==
+
+Literatur von und über Microsoft Corporation Microsoft im Katalog der Deutschen Nationalbibliothek
+Offizielle Website von Microsoft, deutschsprachige: at, ch, de.
+
+
+== Einzelnachweise ==Als Beispiel sei das 2010 vorgestellte iPhone 4 genannt.. Die Vorder- und Rückseite dieses iPhones ist aus einem Glas, aus dem auch die Windschutzscheiben von Hochgeschwindigkeitszügen bestehen.
+Apple warb zu dieser Zeit mit einem ultrarobusten und kratzfesten Display.. Die Materialien tragen damit zum Alleinstellungsmerkmal Apples in der Elektronik-Industrie bei.
+
+
+== Kritik ==
+
+
+=== Arbeitsbedingungen bei Zulieferfirmen ===
+Das Unternehmen lässt seine Produkte vorwiegend von Auftragsfertigern in Asien produzieren, deren Arbeitsbedingungen westlichen Standards nicht entsprechen.
+Arbeitsrechtliche und gesundheitliche Belange der Arbeiter werden oft nicht hinreichend berücksichtigt.Im Jahr 2006 berichtete die britische Zeitung Mail on Sunday über erzwungene Überstunden und Unterschreitungen des gesetzlichen Mindestlohns in zwei Foxconn-Werken.. Eine Untersuchung von Apple widersprach dem, stellte jedoch Verstöße gegen den Apple-eigenen Verhaltenskodex für Zulieferer fest.
+Infolgedessen schloss Apple sich dem Industrieverband EICC an, der einheitliche Verhaltensregeln und Prüfinstrumente definiert, und begann die Zusammenarbeit mit der Nichtregierungsorganisation Verité.. Seit 2007 veröffentlicht Apple jährlich einen Bericht, der die Ergebnisse aller im Vorjahr durchgeführten Überprüfungen von Zulieferbetrieben zusammenfasst.Auch in den folgenden Jahren gab es immer wieder Berichte über schlechte Arbeitsbedingungen bei Foxconn und anderen Zulieferbetrieben.
+Die von Greenpeace unterstützten Public Eye Awards nominierten Foxconn 2011 für einen Negativpreis, da „Dumpinglöhne“ und „unethische bis illegale“ Arbeitsbedingungen zu mindestens 18 Selbstmorden von jungen chinesischen Wanderarbeitern geführt hätten.. Anfang 2012 trat Apple der Fair Labor Association bei, die im März die Ergebnisse einer unabhängigen Untersuchung der Arbeitsbedingungen bei Foxconn veröffentlichte.
+In zwei weiteren Untersuchungen seitdem stellte die FLA fest, dass alle im ersten Bericht empfohlenen Maßnahmen umgesetzt wurden.. Neben Arbeitszeitverkürzungen und ergonomischen Maßnahmen wurde so etwa der Organisationsgrad in Gewerkschaften stark erhöht.Seit 2012 überwacht das Unternehmen die Wochenarbeitszeiten von mehr als einer Million Arbeitern bei Zulieferbetrieben und veröffentlicht diese Daten im Internet.
+Nach Firmenangaben sank die Häufigkeit der Verstöße gegen die wöchentliche Höchstarbeitszeit von 60 Stunden von 35 % im Jahr 2006 auf durchschnittlich 8 % im Jahr 2014.Dem widerspricht ein Bericht der BBC (Apple’s Broken Promises) von Ende 2014, bei dem als Arbeiter getarnte BBC-Reporter bei Foxconn mit versteckter Kamera unter anderem 12-Stundenschichten für das iPhone 6 und die Überbelegung der Arbeiterheime und die ungeschützte Arbeit mit gefährlichen Chemikalien bewiesen.
+
+
+=== Umweltschutz ===
+Das Unternehmen sah sich Vorwürfen von mehreren Umweltschutzorganisationen, darunter Greenpeace, ausgesetzt.. Der im August 2006 erstmals veröffentlichte Guide to Greener Electronics kritisierte anfangs insbesondere die Verwendung von damals industrieweit üblichen, giftigen Chemikalien wie PVC oder bromhaltigen Flammschutzmitteln sowie die Tatsache, dass Apple keine Pläne zum Verzicht auf diese Chemikalien veröffentlicht hatte.
+Zudem wurde bemängelt, dass Apple in einigen Ländern keine alten Produkte zum Recycling annimmt.. Kritiker, darunter das Online-Magazin treehugger.com, wiesen auf methodische Mängel hin.
+Unter anderem habe Greenpeace zu großen Wert auf öffentliche Absichtserklärungen der Unternehmen gelegt.
+Jobs hat auf die Vorwürfe von Greenpeace im Mai 2007 erwidert, dass er Apple im Bereich des Umweltschutzes führend machen wolle.. In seinem Text A Greener Apple führte Jobs bereits erreichte Erfolge auf und kündigte weitere Maßnahmen für den Umweltschutz an.
+Apples Entscheidung, die US-amerikanische Handelskammer wegen ihrer Fundamentalopposition gegen ein Klimaschutzgesetz zu verlassen, stieß bei Umweltschutzverbänden auf Zustimmung.Im November 2012 lag das Unternehmen in einer aktualisierten Version des Guide to Greener Electronics auf Platz 6 von 16 untersuchten Konzernen.. Während Greenpeace den weitgehenden Verzicht auf schädliche Chemikalien sowie eine hohe Recyclingrate positiv bewertete, bemängelte die Organisation vor allem, dass Apple keine ausreichenden Absichtserklärungen zum Umstieg auf erneuerbare Energien und zur Vermeidung von Treibhausgasen sowie zur Verwendung von recyceltem Plastik und Papier veröffentliche.Im Juli 2012 zog sich das Unternehmen aus dem Programm Electronic Product Environmental Assessment Tool (EPEAT) zurück.
+Das bedeutet, dass die Produkte des Unternehmens nicht mehr nach den EPEAT-Richtlinien zertifiziert werden, wie es seit 2007 getan wurde.. Die Entscheidung wurde öffentlich stark kritisiert, da das EPEAT-Zertifikat für die Beschaffung von Endgeräten durch Bundes- und Landesbehörden der USA notwendig ist.
+In einer offiziellen Stellungnahme wies das Unternehmen darauf hin, dass die eigenen Produkte besonders in Punkten gut abschneiden würden, die von EPEAT nicht berücksichtigt würden.. Wenige Tage nach der Stellungnahme erklärte Apple, der Ausstieg aus EPEAT sei ein Fehler gewesen.
+Die Zertifizierung für sämtliche betroffenen Geräte werde fortgesetzt.
+Im Frühjahr 2013 stellte das Unternehmen Lisa Jackson, die langjährige Chefin der US-Umweltschutzbehörde EPA, als Koordinatorin für Umweltschutz-Aktivitäten ein.. In einem im April 2014 veröffentlichten Bericht erklärte Greenpeace, dass Apple das einzige untersuchte Unternehmen war, das alle Rechenzentren vollständig auf erneuerbare Energien umgestellt habe.
+Im März 2016 gab Apple bekannt, dass 93 % des eigenen Energiebedarfs aus erneuerbaren Energieträgern gedeckt werden.. Im April 2018 gab Apple-Vorstand Lisa Jackson bekannt, dass weltweit Büros, Rechenzentren und andere eigene Einrichtungen vollständig mit erneuerbarer Energie betrieben werden.
+Zudem ist bei Produkten ab 2018, sofern diese Aluminium enthalten, dieses zu 100 % recycelt.Siehe auch: Grüne IT
+
+
+=== Rückdatierte Aktienoptionen ===
+Das Unternehmen hat zwischen 1997 und 2006 Aktienoptionen in der Höhe von 84 Millionen US-Dollar an Mitarbeiter, darunter der damalige CEO Steve Jobs, rückdatiert.. Infolge dieser Affäre traten die Chef-Justiziarin und der Finanzchef von Apple zurück.
+Jobs selbst habe laut einer internen Untersuchung zwar von der Rückdatierung von Aktienoptionen gewusst, jedoch geglaubt, nicht selbst von dieser Praxis zu profitieren.. Folgen für die Bilanzen seien ihm demnach nicht klar gewesen.
+
+
+=== Vorgehen gegen nichtautorisierte Berichterstattung ===
+Das Unternehmen ging 2005 gerichtlich gegen die Blogs Apple Insider, PowerPage und Think Secret vor, die über unveröffentlichte Produkte berichtet hatten.
+Apple vermutete hinter den Berichterstattern zum Teil eigene Angestellte, die Unternehmensinterna preisgäben.. In den bisherigen gerichtlichen Verfahren gegen die Autoren der Berichte hatte Apple jedoch keinen Erfolg: Ein kalifornisches Gericht urteilte erstmals, dass Blogger und Online-Journalisten denselben verfassungsgemäßen Schutz der Pressefreiheit genießen wie Vertreter der traditionellen Presse.
+Außerdem musste Apple Prozesskosten der Electronic Frontier Foundation, welche die Blogs vor Gericht unterstützt hatte, in Höhe von 700.000 US-Dollar übernehmen.Spiegel Online kritisiert die „extreme Geheimhaltung“ und schreibt, das Unternehmen sei ein „paranoider Konzern, für den Geheimnisse nicht nur Schutz vor der Konkurrenz sind, sondern auch ein Marketingwerkzeug“.. So sei kostenlose Werbung durch den Hype und die Gerüchteküche vor der Einführung eines neuen Produkts gewährleistet.
+Wie wirkungsvoll diese Strategie ist, zeigt eine Schätzung des Harvard-Professors David Yoffie, wonach die Berichterstattung über das iPhone Anfang 2007 etwa die gleiche Wirkung gehabt habe, wie eine 400 Mio.. US-Dollar schwere Werbekampagne.
+Geheimnisverrat werde nach Aussagen eines Augenzeugen mit geheimdienstähnlichen Methoden verfolgt, ohne Rücksicht auf die Privatsphäre der Mitarbeiter.. Es herrsche „eine Kultur der Angst“.
+
+
+=== Softwareverbreitung über den App Store ===
+Das Unternehmen überprüft alle Programme, die für den iOS-App-Store eingereicht werden, vor der Veröffentlichung auf eine Reihe von technischen – etwa Sicherheit und Stabilität – aber auch inhaltlichen Kriterien.
+Da es Nutzern schwer möglich ist, aus anderen Quellen als dem App Store native Programme zu beziehen, sehen Kritiker in der Nichtzulassung von Programmen eine Zensur.Andere Autoren sehen die Kontrolle des App Stores dagegen als möglichen Vorteil für Nutzer an:
+
+
+=== Datenschutz bei kundenbezogenen Nutzerdaten und Arbeitnehmern ===
+Auch der Umgang des Konzerns mit Datenschutz steht in der Kritik.. Die frühere deutsche Bundesjustizministerin Sabine Leutheusser-Schnarrenberger fordert mehr Transparenz und wird im Spiegel mit den Worten zitiert: „Den Nutzern von iPhones und anderen GPS-fähigen Geräten muss klar sein, welche Informationen über sie gesammelt werden.“ Der Hinweis, dass sie der Nutzung der Daten widersprechen können, fehlt in der Datenschutzerklärung des Unternehmens.
+Daher wurde Apple 2011 der Negativpreis Big Brother Award verliehen.Einen weiteren Big Brother Award erhielt die Apple Retail Germany GmbH, welche die Apple Stores in Deutschland betreibt, für den Umgang mit der Privatsphäre der Belegschaft.. Sie soll nicht nur die Verkaufsräume, sondern auch Lager- sowie Pausenräume der Beschäftigten per Video überwacht haben.
+Eine solche flächendeckende Videoüberwachung von Beschäftigten ist nach dem deutschen Datenschutz jedoch nicht zulässig.Um weiterhin auf dem chinesischen Markt verkaufen zu dürfen wird Apple die Daten chinesischer Kunden in China speichern und den dortigen Behörden bei Bedarf vollen Zugriff auf die Nutzerdaten geben.
+
+
+=== EU-Vorwürfe gezielter Kundentäuschung ===
+Die frühere EU-Justizkommissarin Viviane Reding beschuldigt in einem Brief an die Verbraucherschutzminister der Mitgliedsstaaten Apple, die Kunden beim Kauf von Mobiltelefonen und Computern hinsichtlich der ihnen innerhalb der EU zustehenden 24-monatigen gesetzlichen Gewährleistung zu täuschen und eine zusätzliche Garantie gegen Aufpreis zu verkaufen.. „Es scheint, dass Apple-Verkäufer es versäumten, den Verbrauchern klare, wahrheitsgemäße und vollständige Informationen über die ihnen nach EU-Recht zustehende gesetzliche Gewährleistung zu geben“, wird darin erläutert.
+So bietet Apple zusätzlich zur gesetzlichen Gewährleistung eine kostenlose 1-Jahres-Garantie an, schildert aber nicht, dass die Gewährleistung (von Gesetzes wegen) parallel existiert und über die doppelte Laufzeit geht.. Der Unterschied kann gerade von Laien nicht erfasst werden.
+Im Dezember 2011 wurde von italienischen Behörden aufgrund dieser Praxis bereits eine Geldbuße in Höhe von 900.000 Euro gegen Apple erlassen.
+
+
+=== Steuervermeidung ===
+Apple praktiziert Steuervermeidung bzw.. Steueroptimierung in Milliardenhöhe, unter anderem mit dem legalen Double-Irish-With-a-Dutch-Sandwich-Prinzip:
+
+Apple verbucht in der EU erzielte Einnahmen bei einer irischen Apple-Holding-Gesellschaft,
+Irland besteuert den Gewinn kaum, weil diese Gesellschaft vom Ausland (USA) geleitet wird,
+die USA besteuern Auslandsgewinne nicht, die nicht in die USA fließen.Diese Praktik wird zunehmend kritisiert.Ermittler des Senates der Vereinigten Staaten von Amerika veröffentlichten am 20.
+Mai 2013 einen Bericht über Apples Vorgehen.. Von 2009 bis 2012 flossen nicht in den USA versteuerte Auslandsgewinne von mindestens 74 Milliarden US-Dollar an irische Tochterfirmen.
+Die Einnahmen der irischen Apple-Tochtergesellschaft wurden in keinem Land besteuert, ein anderes Tochterunternehmen versteuerte Einnahmen mit nur 0,05 %.. Einige Tochterunternehmen verfügten über keine Angestellten.
+Am Tag darauf kam es zu einer öffentlichen Anhörung im Senat, an der Apple-CEO Tim Cook teilnahm.. Cupertinos Bürgermeister, Barry Chang, kritisiert Apples Steuervermeidung als „Missbrauch“.
+Die kalifornische Kleinstadt kann die gestiegenen Kosten für Ausbau und Erhalt der Infrastruktur nicht mit Steuereinnahmen finanzieren.Die Europäische Kommission bewertet Apples Steuersparmodell als EU-Wettbewerbsregeln verletzende staatliche Beihilfe.. Am 30.
+August 2016 teilte die Europäische Kommission mit, dass sie die Apple von Irland gewährten Steuervorteile als illegal erachtet: Die EU-Kommissarin für Wettbewerb Margrethe Vestager „erklärte, Apple habe in Irland 0,005 Prozent Steuern gezahlt“.
+Die Apple Sales International (ASI) im irischen Cork kauft formal Zulieferern aus Asien Waren ab und verkauft sie mit Aufpreis Apple-Firmen, die sie weltweit Endkunden verkaufen.. Der nur virtuelle Umweg über Irland erspart die Besteuerung dreistelliger Milliardengewinne: ASI wurde in Irland gegründet und wird von den USA aus geleitet.
+Laut US-Recht sind  Firmen im Gründungsland steuerpflichtig.. Laut irischem Recht sind Firmen in dem Land steuerpflichtig, in dem sie geleitet werden.
+Irland sollte von Apple 13 Mrd.
+Euro unbezahlter Steuern aus den Jahren 2003 bis 2014 zuzüglich Zinsen nachfordern.. Tim Cook erklärte am 31.
+August 2016, Apple wie auch Irland werden die die rückwirkende Änderung von Steuerregeln anfechten.. Der EuGH annullierte die Entscheidung der EU-Kommission am 15.
+Juli 2020.. Damit bleibt eine letztinstanzliche Auseinandersetzung am [EuGh].
+Am gleichen Tag stellte die EU-Kommission einen Aktionsplan für faire und simple Besteuerung vor – unter Anwendung von Artikel 116 des EU-Vertrags
+Damit können Mitgliedstaaten gezwungen werden, nationale Steuergesetze zu ändern – notfalls per Gerichtsurteil.
+Im November 2014 wurde durch die Luxemburg-Leaks bekannt, dass Apple mit der Beratungsgesellschaft PricewaterhouseCoopers die Besteuerung in Luxemburg optimierte.Im November 2017 wird Apple in den Veröffentlichungen der Paradise Papers aufgelistet: Apple ließ Kanzleien in den Steuerparadiesen Britische Jungferninseln, Kanalinseln und Isle of Man anfragen, wie man dort den Abgaben entgehen könne.Apple häufte bisher knapp 250 Milliarden Dollar Bargeld steuerfrei im Ausland an.
+Nachdem der Vorstandsvorsitzende Tim Cook, der Apple den „größten Steuerzahler der Welt“ nennt,, der US-Regierung eine Reform der Besteuerung von Auslandsgewinnen empfahl, senkte diese jenen Steuersatz für Unternehmen von 35 auf 21 Prozent.. Bringen Firmen wie Apple im Ausland gehortetes Geld heim, werden auch Alt-Gewinne nur mit 15 Prozent besteuert.
+
+
+=== Verarbeitungsqualität ===
+Jüngere Berichte aus 2018 kritisieren einen Rückgang in der Qualität von Apple-Produkten.
+Dies betreffe sowohl Hardware als auch Software:
+
+Am 11.. Mai 2018 wurde beim Northern District Court of California Klage gegen Apple eingereicht.
+Apple wird beschuldigt, darum gewusst zu haben, dass die Tastatur bei einigen MacBook-Laptopcomputern aufgrund eines Konstruktionsfehlers zu frühzeitigen Ausfällen neigt und diese Geräte trotz dieses bekannten Fehlers beworben und verkauft zu haben.. Um die Dicke der Geräte weiter zu senken, wurde der klassische Scherentastenmechanismus beim MacBook ab 2015 durch einen Schmetterlingsmechanismus ersetzt.
+Dieser neue Tastaturmechanismus neigt zu Defekten, die sich darin äußern, dass Tasteneingaben nicht mehr richtig erkannt werden oder die Tastatur ohne Nutzereingabe Tastendrücke an das Betriebssystem weitergibt.. Einem Bericht des Apple Insiders zufolge ist die Tastaturdefekthäufigkeit beim 2016er-MacBook-Pro doppelt so hoch wie bei älteren Geräten.Ende Mai 2018 wurde aus Dokumenten eines Gerichtsverfahrens bekannt, dass es Apple bereits vor dem Produktstart des iPhone 6 bekannt war, dass das Gehäusematerial der Geräte unzureichend stark ist und sich zu leicht biegen ließ.
+Die Wahrscheinlichkeit des Verbiegens sei beim iPhone 6 3,3-mal größer, als beim iPhone 5s.. Beim Nachfolger iPhone 6s hat Apple ein anderes Material gewählt, das sich nicht mehr so leicht verbiegen lässt.Durch ein Video des Webvideoproduzenten Quinn Nelson geriet der Fokus auf die unzureichende Verarbeitungsqualität der VESA-Halterung des iMac Pro.
+Die Qualität der mitgelieferten Schrauben ist so schlecht, dass sie bereits beim ersten Entfernen teilweise abbrechen.. Nelson kontaktierte dieses Problems wegen den Apple-Support, der ihn zurückwies, da der VESA-Halter kein Apple-Produkt sei, obwohl er von Apple verkauft wird und ein Apple-Logo trägt.
+Bei einer darauffolgenden Reparatur des iMac Pro in einem Applestore stellte sich heraus, dass das Personal nicht ausreichend geschult war, um das Gerät zu reparieren.
+
+
+=== Verhinderung von Reparaturen durch nicht-autorisierte Dritte ===
+Der bei neueren Geräten verbaute Sicherheitsprozessor T2 kann in Zukunft dazu verwendet werden, dass bestimmte Komponenten durch unautorisierte Reparateure nicht mehr getauscht werden können.. Wie Apple im IT-Blog The Verge mitgeteilt hat, muss nach dem Tausch bestimmter Komponenten ein proprietäres Diagnosewerkzeug ausgeführt werden, um das Gerät wieder starten zu können.
+iFixit hält diese Reparatur-Vernagelung per T2 für „ein Fallbeil, das über der Reparaturbranche schwebt“.
+
+
+=== Sonderweg in der Absichtserklärung für universelle Ladegeräte ===
+Im Jahr 2009 unterschrieben 10 Hersteller von Mobiltelefonen (unter anderem Nokia, Samsung und Apple) eine Absichtserklärung für einen gemeinsamen Standard für Ladegeräte.. Der Standard sollte es für Handynutzer bequemer machen und dafür sorgen, dass weniger alte Aufladegeräte zu Elektroschrott werden.
+„[Apple] führt zwar USB-Netzgeräte ein, weigert sich aber, in seinen Handys einen Steckeranschluss für Micro-USB zu schaffen.“ „Apple halte sich zwar formell an die Absichtserklärung, doch es 'gebe den Eindruck bei Teilen der Öffentlichkeit und manchen Abgeordneten', dass Apple seine Versprechen ignoriere.“
+
+
+=== Sicherheitslücke bei Apple Mail ===
+Im April 2020 wurde eine Sicherheitslücke bei der App „Mail“, die von Apple entwickelt wurde, bekannt.. Das Bundesamt für Sicherheit in der Informationstechnik (BSI) spricht von einer „besonders kritisch[en]“ Sicherheitslücke.
+Durch diesen Fehler sei „potenziell das Lesen, Verändern und Löschen von E-Mails möglich“.. Es gibt Hinweise, dass diese Lücke bereits für Angriffe ausgenutzt wurde, welche jedoch nicht bestätigt sind.
+Laut Apple sind die Lücken jedoch „nicht ausreichend, um den Sicherheitsschutz von iPhone und iPad zu umgehen“.. Trotzdem will Apple diese Sicherheitslücken mit der nächsten Version des Betriebssystem IOS beheben.
+Dies stößt auf Kritik, da viele Nutzer möglichst schnell ein Update haben wollen.
+
+
+=== Abhörung durch Siri ===
+Der Whistleblower Thomas le Binniec hat in einem Brief an die europäische Datenschutzbehörden davon berichtet, dass er Teil des sogenannten Grading-Projekts war und seine Aufgabe darin bestand, den Sprachassistenten Siri zu verbessern, indem er aufgezeichnete Gespräche transkribierte.. Er kritisierte scharf, dass auch Gespräche aufgezeichnet wurden, ohne das dies dem Benutzer bewusst war oder das der Benutzer dieser Aufzeichnung aktiv zugestimmt hatte und das außerdem auch andere Personen wie Familie oder Freunde auch aufgezeichnet wurden.
+Dadurch hörte er auch intime und private Gespräche ab.. Dieses Bewertungsprogramm wurde mittlerweile ausgesetzt.
+
+
+== Literatur ==
+Charlotte Erdmann: One more thing: Apples Erfolgsgeschichte vom Apple I bis zum iPad.
+Addison-Wesley, München 2011, ISBN 978-3-8273-3057-4.
+Scott Galloway: The Four.. Die geheime DNA von Amazon, Apple, Facebook und Google.
+Plassen, Kulmbach 2018, ISBN 978-3-86470-487-1.. (Amerikanische Originalausgabe: The Four.
+The Hidden DNA of Amazon, Apple, Facebook and Google.. Portfolio/Penguin, New York 2017, ISBN 978-0-7352-1365-4)
+Joachim Gartz: Die Apple-Story.
+Aufstieg, Niedergang und „Wieder-Auferstehung“ des Unternehmens rund um Steve Jobs.. SmartBooks, Kilchberg 2005, ISBN 3-908497-14-0.
+Ina Grätz, Sabine Schulze: Apple Design.
+Hrsg.: Museum für Kunst und Gewerbe Hamburg.. 1.
+Auflage.. Hantje Cantz Verlag, Ostfildern 2011, ISBN 978-3-7757-3011-2.
+
+Leander Kahney: Tim Cook.. Das Genie, das Apples Erfolgsstory fortschreibt.
+Plassen, Kulmbach 2019, ISBN 978-3-86470-651-6 (Mit Quellenangaben).
+Yukari Iwatani Kane: Das wankende Imperium.. Apple nach Steve Jobs.
+Carl Hanser, München 2015, ISBN 978-3-446-44305-1.. (Mit Anmerkungen und Register)
+Daniela Kickl: Apple intern – Drei Jahre in der Europa-Zentrale des Technologie-Multis.
+Edition A, 2017, ISBN 978-3-99001-218-5.
+Adam Lashinsky: Inside Apple.. Das Erfolgsgeheimnis des wertvollsten, innovativsten und verschwiegensten Unternehmens der Welt.
+Wiley-VCH Verlag, Weinheim 2012, ISBN 978-3-527-50714-6.
+Owen W.. Linzmayer: Apple streng vertraulich.
+Die Tops und Flops der Macintosh-Geschichte.. Midas, Zürich 2000, ISBN 3-907100-12-3.
+Owen W.
+Linzmayer: Apple Confidential 2.0.. The definitive history of the world’s most colorful company.
+No Starch Press, San Francisco 2004, ISBN 1-59327-010-0 (englisch).
+Andrew Zuckerman: Designed by Apple in California.. Apple, Cupertino 2016, ISBN 978-0-9975138-1-3 (englisch).
+
+
+== Weblinks ==
+
+Offizielle deutschsprachige Websites: Apple Deutschland – Apple Liechtenstein – Apple Österreich – Apple Schweiz
+Apple-Sicherheitsupdates
+Firmengeschichte.
+macprime.ch
+Die Geschichte von Apple und dem Macintosh
+apple-history.com – Auflistung fast aller Apple-Geräte nach Datum, Familie oder Prozessor (englisch).
+Ben Schwan: Vor 20 Jahren: Apple schreibt wieder schwarze Zahlen.. In: Heise online.
+17.. Oktober 2016.
+Ben Schwan: 40 Jahre Apple.
+Ein Rückblick auf die Erfolgsgeschichte... In: Heise online.
+1.. April 2016.
+
+
+== Einzelnachweise ==Der Instant Messaging-Anbieter ICQ wurde 2010 für 188 Millionen Dollar von AOL übernommen.. Ein Jahr später erfolgte eine Beteiligung in Höhe von 400 Millionen Dollar an Twitter Inc.Seit 2007 wurden 3,6 Milliarden Dollar investiert, um 2014 die Aktienmehrheit bei Vk.com zu erreichen, einem der marktführenden sozialen Netzwerke Russlands.Im Juni 2019 geben Alibaba, Mail.ru Group, der russische Direktinvestitionsfonds (RDIF) sowie Megafon bekannt, den gemeinsamen Online-Handel AliExpress Russland aufzubauen.
+
+
+== Weblinks ==
+
+Offizielle Internetpräsenz
+
+
+== Einzelnachweise ==findet man in dieser Liste:
+
+Nobelpreisträger:
+Alexei Alexejewitsch Abrikossow, theoretischer Physiker, Entdecker von Typ-II-Supraleitern
+Witali Lasarewitsch Ginsburg, theoretischer Physiker, Arbeiten in der Theorie von Supraleitern und Supraflüssigkeiten
+Pjotr Leonidowitsch Kapiza, Experimentalphysiker, Entdecker der Suprafluidität
+Lew Dawidowitsch Landau, theoretischer Physiker, Schlüsselbeiträge auf vielen Gebieten theoretischer Physik
+Alexander Michailowitsch Prochorow, Experimentalphysiker auf dem Gebiet der Quantenelektronik bzw.. Lasern-Technik
+Nikolai Nikolajewitsch Semjonow, Physikochemiker, Erforschung der Reaktionskinetik und chemischer Kettenreaktionen
+Igor Jewgenjewitsch Tamm, theoretischer Physiker, Beiträge auf vielen Gebieten theoretischer PhysikWeitere prominente Wissenschaftler:
+Lew Andrejewitsch Arzimowitsch, „Vater des Tokamak“, einer Form des Kernfusionsreaktors
+Gersch Izkowitsch Budker, Entwickler von Teilchenbeschleunigern
+Sergei Petrowitsch Kapiza, Physiker und Fernsehmoderator
+Mstislaw Wsewolodowitsch Keldysch, Mathematiker, Mitbegründer der sowjetischen Raumfahrt
+Sergei Pawlowitsch Koroljow, Konstrukteur von Raketen und Weltraumpionier
+Igor Wassiljewitsch Kurtschatow, Leiter des sowjetischen Atombombenprojekts
+Jewgeni Michailowitsch Lifschitz, Mitverfasser des zehnbändigen „Lehrbuchs der theoretischen Physik“ (zusammen mit Lew Landau)
+Wjatscheslaw Fjodorowitsch Muchanow, Professor am Arnold-Sommerfeld-Zentrum für Theoretische Physik an der Universität München
+Sergei Iwanowitsch Wawilow, Mitentdecker der Tscherenkow-Strahlung
+
+
+== Studenten ==
+Nobelpreisträger:
+Andre Geim
+Konstantin Novoselov
+über 100 Mitglieder der Russischen Akademie der Wissenschaften
+über 4000 Doktoren der Wissenschaften (entspricht deutscher Habilitation)
+über 8000 Kandidaten der Wissenschaften (entspricht deutschem Doktor)
+Kosmonauten:
+Juri Michailowitsch Baturin
+Alexander Jurjewitsch Kaleri
+Alexander Alexandrowitsch Serebrow
+Politiker:
+Natan Scharanski, sowjetischer Dissident, später israelischer Minister und Leiter der Jewish Agency
+drei Minister in der Regierung der Russischen Föderation
+Unternehmer:
+Alex Konanykhin
+
+
+== Siehe auch ==
+Liste der Universitäten in Russland
+
+
+== Weblinks ==
+
+Offizielle Webseite des Moskauer Instituts für Physik und TechnologieInsgesamt war Euler für drei der fünf besten Formeln dieser Umfrage verantwortlich: gleich auf Platz zwei rangierte der Polyedersatz und auf Platz fünf das Basler Problem
+
+  
+    
+      
+        1
+        +
+        
+          
+            1
+            
+              2
+              
+                2
+              
+            
+          
+        
+        +
+        
+          
+            1
+            
+              3
+              
+                2
+              
+            
+          
+        
+        +
+        
+          
+            1
+            
+              4
+              
+                2
+              
+            
+          
+        
+        +
+        ⋯
+        =
+        
+          
+            
+              π
+              
+                2
+              
+            
+            6
+          
+        
+        .
+      
+    
+    {\displaystyle 1+{\frac {1}{2^{2}}}+{\frac {1}{3^{2}}}+{\frac {1}{4^{2}}}+\cdots ={\frac {\pi ^{2}}{6}}.}
+  Euler ist Namensgeber des sog.. Project Euler, einer Website, auf der eine Reihe von Problemen gestellt sind, welche zumeist mittels mathematischer Programmierung gelöst werden müssen.
+Ziel des Projektes ist es interessierte Menschen dabei zu unterstützen, spielerisch Programmierkenntnisse zu vertiefen oder bereits gelerntes aufzufrischen.
+Die Euler-Scheibe (englisch Euler’s Disc) ist ein physikalisches Spielzeug für die Demonstration der Energiedissipation einer rotierenden Scheibe.. Die Scheibe wurde etwa 1987 von Joe Bendik erfunden, die dieser nach Leonhard Euler benannte, weil Euler sich bereits mit mathematischen Aspekten dieses physikalischen Problems beschäftigt hatte.
+
+
+=== Leonhard-Euler-Teleskop ===
+
+Ebenfalls nach Euler benannt ist das Leonhard-Euler-Teleskop, ein Spiegelteleskop mit 1,2-m-Apertur der Sternwarte Genf am La-Silla-Observatorium der Europäischen Südsternwarte.
+
+
+=== Leonhard Euler als Namensgeber ===
+Von Leonhard Euler entwickelte Methoden oder Ideen, die seinen Namen tragen, sind:
+Gleichungen:
+
+Euler-Bernoulli-Gleichung, Differentialgleichung vierter Ordnung, die der Kontinuumsmechanik des Balkens zugrunde liegt, siehe Biegelinie (Bestandteil der Euler-Bernoulli-Balkentheorie)
+Eulersche Differentialgleichung, lineare gewöhnliche Differentialgleichung beliebiger Ordnung
+Eulersche Gleichungen der Strömungsmechanik, Grundgleichungen zur Dynamik idealer (reibungsfreier) Flüssigkeiten
+Eulersche Kreiselgleichungen
+Euler-Lagrange-GleichungFormeln:
+
+Euler-Eytelwein-Formel, Formel für Seilhaftung
+Eulersche Formel
+Eulersche Formel oder Satz von Euler in der Flächenkrümmung, siehe Hauptkrümmung
+Euler-Maclaurin-Formel
+Euler-Rodrigues-Formel
+Eulersche Reihe
+Euler-ProduktSätze und Theoreme:
+
+Euler-Theorem, Theorem in den Wirtschaftswissenschaften
+Satz von Euler-Fermat (Zahlentheorie)Konstanten und Zahlenfolgen:
+
+Euler-Mascheroni-Konstante 
+  
+    
+      
+        γ
+        =
+        0,577
+        2
+        …
+      
+    
+    {\displaystyle \gamma =0{,}5772\dots }
+  , auch Eulersche Konstante genannt
+Eulersche Zahl 
+  
+    
+      
+        e
+        =
+        exp
+        ⁡
+        (
+        1
+        )
+        =
+        2,718
+        28
+        …
+      
+    
+    {\displaystyle e=\exp(1)=2{,}71828\dots }
+  
+Eulersche Zahlen, verwandt mit den Bernoulli-Zahlen, treten als Taylor-Koeffizienten der Sekans-hyperbolicus-Funktion auf
+Euler-Zahlen bilden das dem Pascalschen Dreieck ähnliche Euler-Dreieck in der Kombinatorik
+Euler-Zahl ist eine dimensionslose Kennzahl in der Strömungsmechanik
+Eulersche PseudoprimzahlVermutungen:
+
+Eulersche Vermutung, Vermutung der Zahlentheorie und Verallgemeinerung der fermatschen VermutungFunktionen und (mathematische) Verfahren:
+
+Eulersches Integral erster und zweiter Gattung (Eulersche Betafunktion und Gammafunktion)
+Euler-Maruyama-Verfahren zur Lösung von stochastischen Differentialgleichungen
+Eulersches Polygonzugverfahren (Integrationsverfahren für Differenzialgleichungen)
+Eulersche Phi-Funktion 
+  
+    
+      
+        φ
+        (
+        m
+        )
+      
+    
+    {\displaystyle \varphi (m)}
+   = Anzahl der zu 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   teilerfremden ganzen Zahlen 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   mit 
+  
+    
+      
+        0
+        <
+        a
+        ≤
+        m
+      
+    
+    {\displaystyle 0<a\leq m}
+  
+Eulersche Reihentransformation
+Manchmal als Euler-Funktion bezeichnet wird das Euler-Produkt in der Theorie der Partitionsfunktion (siehe auch Pochhammer-Symbol).
+Eulersches Kriterium zur Berechnung des Legendre-Symbols
+Eulersche Substitution in der IntegralrechnungGeometrie und Topologie:
+
+Eulersche Gerade: die Verbindungsgerade von Schwerpunkt, Höhenschnittpunkt und Umkreismittelpunkt eines Dreiecks
+Satz von Euler (Geometrie)
+Satz von Euler (Vierecksgeometrie)
+Eulersches Dreieck, eine besondere Form des Kugeldreiecks
+Euler-Ziegel, ein Quader mit ganzzahligen Längen der Kanten und Flächendiagonalen
+Eulerscher Polyedersatz
+Eulersche Winkel
+Euler-Charakteristik, in der Topologie eine Kennzahl für geschlossene Flächen
+Euler-Wiege, eine kardanische Aufhängung, die in allen drei Eulerschen Winkeln drehbar ist
+Euler-KlasseGraphentheorie:
+
+Euler-Hierholzer-Satz
+Eulersche Linie (auch „Eulertour“ oder „Eulerkreis“), ein Kantenzug, der jede Kante eines Graphen enthältMusiktheorie:
+
+Eulersches Tonnetz, Darstellung des Tonumfanges der reinen Stimmung in einem zweidimensionalen Gitternetz aus reinen Quint- und TerzintervallenPhysik und Mechanik:
+
+Euler-Bernoulli-Balkentheorie, siehe Bernoullische Annahmen
+Eulersche Knickfälle
+Eulersche Turbinengleichung als Grundlage für die Kraftmaschine der modernen Stromerzeugung
+Eulersche Last in der Balkentheorie die minimale axiale Last, die nötig ist, um eine Verbiegung zu bewirken
+Euler-Kreisel
+Eulerkraft
+Euler-Wind
+
+
+=== Sonstige Ehrungen und Widmungen ===
+
+Die Evangelisch-Lutherische Kirche in Amerika erinnert mit einem Gedenktag am 24.
+Mai an Leonhard Euler, gemeinsam mit Nikolaus Kopernikus.In Basel wurde 1875 zu Ehren von Leonhard Euler beim Eingang des Bernoullianums eine Büste aufgestellt.. Auf einer Texttafel wird darauf hingewiesen, dass das Bernoullianum in den Jahren 1872 – 74 von Johann Jakob Stehlin der Jüngere (1826 – 94) zur 400-Jahrfeier der Universität für die Naturwissenschaftlichen Disziplinen auf dem Areal des 1530 errichteten Wasenbollwerks erbaut wurde.An seine Tätigkeit und sein damaliges Wohnhaus in Berlin erinnert eine Gedenktafel an der Behrenstrasse 21/22, dem heutigen Haus der Bayerischen Vertretung in Berlin, die 1907 angebracht wurde.
+Seit 1976 zeigte die Vorderseite der 10-Schweizer-Franken-Banknote das Porträt Eulers.
+Das Motiv den Scheins auf der Rückseite zeigte eine Wasserturbine (eine solche mit hohem Wirkungsgrad wurde von Euler erstmals konstruiert), unser Sonnensystem und der Strahlengang in einem Linsensystem.. In der in den 1980er-Jahren entworfene Reserveserie (sog.
+Geheimreserve, die im Falle massenhafter Fälschungen im Umlauf gekommen wäre), war Leonhard Euler ebenfalls auf dem 10 Franken Schein abgebildet.. Allerdings änderte sich sowohl Porträt als auch Motiv.
+Auf dem Reserveschein sind die Gammafunktion, das Sonnensystem und im Hintergrund eine Zahlentabelle abgebildet.
+
+		
+		
+		
+Weiterhin sind zu seinen Ehren ein Mondkrater (der Krater Euler) und der Asteroid (2002) Euler benannt.. Letzteres geschah im Jahr 2002 in Anerkennung „seiner Beiträge zur Mathematik und den Wissenschaften“.Auch eine Software für numerische und symbolische Berechnungen (Euler Math Toolbox) trägt seinen Namen.
+Die Pflanzengattung Euleria Urb.. aus der Familie der Sumachgewächse (Anacardiaceae) wurde 1925 nach ihm benannt.Leonhard Euler wurde mehrfach auf Briefmarken geehrt: in der Schweiz 1957 und 2007, in der DDR 1950, 1957 und 1983 und in der Sowjetunion 1983.
+2007 wurde in Russland eine Gedenkmünze zu Ehren Eulers herausgegeben.
+
+		
+		
+		
+		
+Unter anderem in Basel und Berlin wurden Straßen nach Leonhard Euler benannt.
+
+
+== Schriften ==
+
+
+=== Publikationen (Auswahl) ===
+Mechanica sive motus scientia analytice exposita.. 2 Bände, 1736 (E015, E016).
+Tentamen novae theoriae musicae.
+1739 (E033).
+Einleitung zur Rechen-Kunst zum Gebrauch des Gymnasii bey der Kayserlichen Academie der Wissenschafften in St.. Petersburg.
+2 Bände, Academische Buchdruckerey, Sankt Petersburg; Band 1 1738, Band 2 1740.. (Digitalisat und Volltext im Deutschen Textarchiv Band 1, Digitalisat und Volltext im Deutschen Textarchiv Band 2).
+Solutio problematis ad geometriam situs pertinentis.
+1741 (E053).
+Methodus inveniendi lineas curvas maximi minimive proprietate gaudentes sive solutio problematis isoperimetrici latissimo sensu accepti.. 1744 (E065).
+Introductio in analysin infinitorum.
+2 Bände, 1748 (E101, E102).
+Découverte d’un nouveau principe de Mécanique.. In: Mémoires de l'académie des sciences de Berlin.
+Band 6, 1752, S.. 185–217 (E177).
+Institutiones calculi differentialis.
+2 Bände, 1755 (E212).
+Theoria motus corporum solidorum seu rigidorum.. 1765 (E289).
+Lettres à une princesse d’Allemagne.
+3 Bände, 1768 (E343, E344, E417).
+Institutiones calculi integralis.. 3 Bände, 1768–1770 (E342, E366, E385).
+Vollständige Anleitung zur Algebra.
+2 Bände, 1770 (E387, E388, Band 2 Digitalisat und Volltext im Deutschen Textarchiv).
+		
+		
+		
+		
+		
+		
+
+
+=== Deutsche Übersetzungen und Ausgaben seiner Werke ===
+Leonhard Euler’s vollständige Anleitung zur Integralrechnung, Hrsg.. Joseph Solomon, 3 Bände, Wien 1828 bis 1830, Band 1, ETH-Bibliothek, Band 1, Archive, Band 2, Archive, Band 3, Archive
+Leonhard Euler’s Mechanik oder analytische Darstellung der Wissenschaft, 3 Bände, Hrsg.
+J.. Ph.
+Wolfers, Greifswald 1848 bis 1853, Band 1, Archive, Band 2, Archive, Band 3, Archive
+Euler, Johann Bernoulli, Jacob Bernoulli: Abhandlungen über Variationsrechnung, 1.. Teil, Ostwalds Klassiker 46, Leipzig 1894, Archive
+Euler: Zwei Abhandlungen über Sphärische Trigonometrie, Ostwalds Klassiker 73, Leipzig 1896, Archive
+Euler: Drei Abhandlungen über Kartenprojektion, Ostwalds Klassiker 93, Leipzig 1898, Archive
+Jakob Bernoulli, Leonhard Euler: Abhandlungen über das Gleichgewicht und die Schwingungen der ebenen elastischen Kurven, Ostwalds Klassiker 175, Leipzig 1910
+Euler: Vollständigere Theorie der Maschinen, die durch Reaktion des Wassers in Bewegung versetzt werden (1754), Ostwalds Klassiker 182, Leipzig 1911
+Euler: Drei Abhandlungen über die Auflösung der Gleichungen (1783, 1764, 1790), Ostwalds Klassiker 226, Leipzig 1928
+Euler: Einleitung in die Analysis des Unendlichen, Teil 1, Einführung Wolfgang Walter, Springer 1983
+Euler: Zur Theorie komplexer Funktionen, Einleitung A.
+P.. Juschkewitsch, Ostwalds Klassiker 261, Akademische Verlagsgesellschaft 1983
+
+
+=== Opera Omnia ===
+Euler veröffentlichte rund zwei Dutzend Bücher und 500 wissenschaftliche Aufsätze.
+Der deutsche Mathematiker Ferdinand Rudio (1856–1929) initiierte die Herausgabe von Eulers sämtlichen Werken.. Zu Lebzeiten Rudios wurden mehr als 30 Bände publiziert.
+Bis 2013 sind über 70 Einzelbände erschienen, außerdem vier Bände aus dem umfangreichen Briefwechsel.. Die Arbeiten erscheinen in der Originalsprache, meist Französisch oder Latein.
+Die gesammelten Werke werden seit 1911 als Opera Omnia im Birkhäuser (Springer) Verlag herausgegeben durch die Euler-Kommission, die von Ferdinand Rudio gegründet wurde.
+Damals waren auch Adolf Krazer, Rudolf Fueter, Heinrich Weber, Paul Stäckel und Karl von der Mühll an der Herausgabe beteiligt.. Zu den späteren Herausgebern von Einzelbänden gehörten Ludwig Schlesinger, Friedrich Engel, Andreas Speiser, Clifford Truesdell (Physik, Mechanik, der ganze Band 11-1 ist eine Geschichte der Elastizitätstheorie im 17.
+und 18.. Jahrhundert, verfasst von Truesdell), Alexander Michailowitsch Ljapunow, Georg Faber, August Gutzmer, Carl Boehm, Constantin Carathéodory, Henri Dulac, Max Herzberger, Emile Cherbuliez, Charles Blanc und Eric Aiton (Physik).
+Hauptherausgeber nach Rudio waren Andreas Speiser (ab 1928), Walter Habicht (ab 1965) und seit 1985 Hans-Christoph Im Hof.. Weitere Herausgeber waren unter anderem Emil Fellmann, Adolf Juschkewitsch, Henri Dulac, Pierre Costabel, René Taton, Wladimir Iwanowitsch Smirnow, Alot T.
+Grigorjan, Joachim Otto Fleckenstein, Johann Jakob Burckhardt, Gleb K.. Mikhailov, Franz Lemmermeyer, Andreas Kleinert und Martin Mattmüller.
+Die Edition besteht aus
+
+Reihe 1: Mathematik, 30 Bände (vollständig).
+Erster Band war 1911 die Anleitung zur Algebra.. Band 16 besteht aus zwei Teilbänden.
+Reihe 2: Mechanik und Astronomie, 27 Bände in 30 Teilbänden (vollständig).
+Reihe 3: Physik und Sonstiges, 12 Bände (vollständig).
+Reihe 4a: Briefwechsel.
+Geplant: 10 Bände für die rund 3100 Briefe mit rund 300 Korrespondenten.. Bisher erschienen: 4 Bände.
+Reihe 4b: Notizbücher, Tagebücher und Unveröffentlichtes (geplant).
+
+
+=== Briefe ===
+Beim Briefwechsel sind im Rahmen der Opera Omnia erschienen:
+
+Band 1 (Zusammenfassung Inhalte, Übersicht, 1975),
+Band 2 (mit Johann I.
+und Nikolaus I.. Bernoulli),
+Band 5 (mit Clairaut, d’Alembert und Lagrange) und
+Band 6 (mit Maupertuis und Friedrich II.).Außerdem sind außerhalb der Opera Omnia folgende Briefwechsel erschienen:
+
+mit Goldbach (Akademie Verlag, Berlin 1965),
+mit den Berliner und Petersburger Akademien (Akademie Verlag, Berlin, 3 Bände: 1959, 1961, 1976),
+mit Tobias Mayer (American Elsevier, 1971).Paul-Heinrich Fuss veröffentlichte 1845 Teile des Briefwechsels von Euler mit Goldbach, Nikolaus Fuss, Johann I, Nikolaus und Daniel Bernoulli.
+Im Band 14 der Werkausgabe von Lagrange ist auch der Briefwechsel mit Euler.
+Briefe an eine deutsche Prinzessin
+
+
+== Literatur ==
+
+
+=== Monografien und Sammelbände ===
+Gerd Biegel, Angela Klein, Thomas Sonar (Hrsg.): Leonhard Euler.. 1707–1783.
+Mathematiker – Mechaniker – Physiker (= Disquisitiones historiae scientiarum.. Braunschweiger Beiträge zur Wissenschaftsgeschichte.
+Bd.. 3).
+Braunschweigisches Landesmuseum, Braunschweig 2008, ISBN 978-3-927939-79-0.
+Nikolai Nikolajewitsch Bogoljubow, Gleb K.. Michailow, Adolf Juschkewitsch: Euler and modern science.
+Mathematical Association of America, 2008.
+Robert E.. Bradley, C.
+Edward Sandifer (Hrsg.): Leonhard Euler: Life, Work and Legacy.. Elsevier 2007.
+Horst Bredekamp, Wladimir Velminski (Hrsg.): Mathesis & Graphe.
+Leonhard Euler und die Entfaltung der Wissensysteme.. Akademie-Verlag, Berlin 2010, ISBN 978-3-05-004566-5.
+Ronald S.
+Calinger: Leonhard Euler.. Mathematical Genius in the Enlightment, Princeton University Press 2015
+Lokenath Debnath: The legacy of Leonhard Euler.
+A tricentennial tribute.. Imperial College Press, London 2010.
+William Dunham: Euler: The Master of Us All.
+Mathematical Association of America, 1999, ISBN 0-88385-328-0.
+William Dunham (Hrsg.): The Genius of Euler.. Reflections on his life and work, Mathematical Association of America 2007
+Emil Fellmann (Hrsg.): Leonhard Euler 1707–1783.
+Beiträge zu Leben und Werk.. Gedenkband des Kantons Basel-Stadt.
+Birkhäuser, Basel 1983, ISBN 3-7643-1343-9.
+Emil A.. Fellmann: Leonhard Euler.
+Rowohlt, Reinbek 1995, ISBN 3-499-50387-5.
+Emil Fellmann: Leonhard Euler, Birkhäuser 2007
+Xavier Hascher, Athanase Papadopoulos (Hrsg.): Leonhard Euler: Mathématicien, physicien et théoricien de la musique.. CNRS Editions, Paris 2015, ISBN 978-2-271-08331-9.
+C.
+Edward Sandifer: How Euler did it.. Mathematical Association of America 2007 (monatliche Kolumne von Sandifer in MAA Online 2003 bis 2007).
+C.
+Edward Sandifer: How Euler did even more, Mathematical Association of America 2015
+C.. Edward Sandifer: The early math of Leonhard Euler, Mathematical Association of America 2007
+Thomas Sonar: 3000 Jahre Analysis, Springer, 2011.
+Otto Spiess: Leonhard Euler.
+Ein Beitrag zur Geistesgeschichte des 18.. Jahrhunderts.
+Frauenfeld 1929.
+Wilhelm Stieda: Die Übersiedlung Leonhard Eulers von Berlin nach St.. Petersburg.
+Hirzel, Leipzig 1931.. Digitalisierte Ausgabe der Universitäts- und Landesbibliothek Düsseldorf.
+Dieter Suisky: Euler as physicist.
+Springer, Berlin 2009.
+Margaret B.. W.
+Tent: Leonhard Euler and the Bernoullis: Mathematicians from Basel.. 2009, ISBN 978-1-56881-464-3.
+Rüdiger Thiele: Leonhard Euler.
+(= Biographien hervorragender Naturwissenschaftler, Techniker und Mediziner, Band 56) B.. G.
+Teubner, Leipzig 1982, ISBN 3-322-00576-3.
+V.. S.
+Varadarajan: Euler through time: A new look at old themes.. American Mathematical Society, 2006.
+Andreas Verdun: Leonard Eulers Arbeiten zur Himmelsmechanik, Springer-Spektrum 2015
+Wladimir Velminski (Hrsg.): Leonhard Euler.
+Die Geburt der Graphentheorie.. Kulturverlag Kadmos, Berlin 2009, ISBN 3-86599-056-8.
+Rudolf Wolf: Leonhard Euler von Basel.
+In: Biographien zur Kulturgeschichte der Schweiz.. Vierter Cyclus.
+Orell, Füssli & Comp., Zürich 1862, S.. 87–134.
+
+
+=== Sonstiges ===
+Hannelore Bernhardt: Leonhard Euler – Leben und Werk.
+Eine Einführung.. Sitzungsberichte der Leibniz-Sozietät der Wissenschaften zu Berlin, Band 94, S.
+15–31.. trafo Wissenschaftsverlag Dr.
+Wolfgang Weist, Berlin 2008.
+Gustaf Eneström: Verzeichnis der Schriften Leonhard Eulers.. Ergänzungsband 4 zum Jahresbericht der DMV.
+B.. G.
+Teubner, Leipzig 1910 (erste Lieferung), 1913 (zweite Lieferung).
+Günther Frei: Zahlentheorie, Analysis und vieles mehr – Die Bedeutung von Leonhard Euler für die heutige Zeit.. In: Naturwissenschaftliche Rundschau.
+Band 60 (12).. 2007, ISSN 0028-1050.
+S.. 629–635.
+Rüdiger Thiele: The Mathematics and Science of Leonhard Euler (1707–1783).
+Kapitel 5 in Glen van Brummelen, Michael Kinyon (Hrsg.): Mathematics and the Historian’s Craft.. Springer, New York 2005, ISBN 978-0-387-25284-1, S.
+81–140.
+André Weil: Zahlentheorie – ein Gang durch die Geschichte von Hammurabi zu Legendre.. Birkhäuser 1992.
+
+
+=== Nachschlagewerke ===
+Moritz Cantor: Euler: Leonhard.
+In: Allgemeine Deutsche Biographie (ADB).. Band 6, Duncker & Humblot, Leipzig 1877, S.
+422–431.
+Andreas Speiser: Euler.. Leonhard.
+In: Neue Deutsche Biographie (NDB).. Band 4, Duncker & Humblot, Berlin 1959, ISBN 3-428-00185-0, S.
+688 f.. (Digitalisat).
+Emil A.
+Fellmann: Euler, Leonhard.. In: Historisches Lexikon der Schweiz.
+A.
+P.. Youschkevitch: Euler, Leonhard.
+In: Charles Coulston Gillispie (Hrsg.): Dictionary of Scientific Biography.. Band 4: Richard Dedekind – Firmicus Maternus.
+Charles Scribner’s Sons, New York 1971, S.. 467–484.
+
+
+
+== Weblinks ==
+
+Literatur von und über Leonhard Euler im Katalog der Deutschen Nationalbibliothek
+Werke von und über Leonhard Euler in der Deutschen Digitalen BibliothekÜber Euler
+
+Euler-Kommission der Schweizer Akademie der Wissenschaften
+Euler 2007
+Rubrik bei MAA von Ed Sandifer „How Euler did it“
+John J.. O’Connor, Edmund F.
+Robertson: Leonhard Euler.. In: MacTutor History of Mathematics archive.
+Genealogie Leonhard Eulers
+WDR-Reportage zum 225.
+Todestag Eulers
+300 Jahre Leonhard Euler (Berlin-Brandenburgische Akademie der Wissenschaften)
+Mathematischer Kalender in Spektrum der Wissenschaft (PDF; 849 kB)
+verschiedene Aufsätze zu Euler in den BAMS 2007
+Music translated into Mathematics: Leonhard Euler
+Günther Frei: Zum 300.. Geburtstag von Leonhard Euler.
+Hombrechtikum 15.. März 2007 (PDF; 656 kB)
+Euler, Leonhard, in Heidelberger Texte zur Mathematikgeschichte
+Video über Leonhard Eulers Leben.
+Bulletin of the AMS, Band 44, 2007, Heft 4, mit Aufsätzen zu Euler (Varadarajan, Euler and his work on infinite series, Burt Totaro, Euler and algebraic geometry, George Andrews, Euler’s De partitio numerorum, Harold Edwards, Euler’s definition of the derivative)Von Euler
+
+Gesammelte Schriften im Euler-Archiv der MAA (englische Benutzerführung, auch mit Texten zu Euler und seinem Umfeld)
+Einleitung in die Analysis des Unendlichen (Deutsche Übersetzung)
+Digitalisierte Schriften zu Eulers Wirken in Berlin (BBAW)
+Briefwechsel mit Friedrich II.
+– Digitale Ausgabe der Universitätsbibliothek Trier
+
+
+== Einzelnachweise ==Februar 2018 Jerome Powell folgte.
+Die USA waren 2016 weltgrößter Absatzmarkt für Importgüter und nach China die zweitgrößte Exportnation der Erde.. Die Handelsbilanz der USA wies 2014 ein Defizit in Höhe von 505 Milliarden US-Dollar aus: Das Exportvolumen für Waren und Dienstleistungen betrug 2014 2.345,4 Milliarden US-Dollar, importiert wurden im selben Zeitraum Waren und Dienstleistungen in Höhe von 2.850,5 Milliarden US-Dollar.
+Sowohl das Export- als auch das Importvolumen wuchsen im Vergleich zum Vorjahr.. Hauptabnehmerländer für US-Waren waren im Jahr 2014 Kanada, Mexiko, China, Japan, Großbritannien und Deutschland.
+
+Der Median für das jährliche Bruttoeinkommen amerikanischer Haushalte lag bei 43.389 US-Dollar; etwa 16 % aller Haushalte hatten ein Bruttoeinkommen von über 100.000 US-Dollar.
+Dabei verdienten die oberen 20 Prozent aller Haushalte mehr als 88.030 US-Dollar brutto im Jahr, das untere Fünftel weniger als 18.500.Bildung und ethnische Zugehörigkeit hatten starken Einfluss auf das Einkommen.. Während der Median des Bruttohaushaltseinkommens 2006 für asiatische Haushalte bei 57.518 US-Dollar lag, betrug er 30.134 US-Dollar für schwarze.
+Der gleiche Median lag für eine Person mit Highschool-Abschluss bei 25.900 US-Dollar, bei Personen mit einem akademischen Grad bei 81.400.Die Armutsschwelle wurde 2006 bei einem Jahreseinkommen von 20.614 US-Dollar (15.860 Euro) für eine vierköpfige Familie und von 10.294 US-Dollar (7920 Euro) für eine alleinstehende Person angesetzt.. 36,46 Millionen (≈ 15 % der Bevölkerung) lebten 2005 unterhalb dieser Grenze.Der Mindestlohn betrug 7,25 US-Dollar pro Stunde bis 2014 mit zahlreichen Abweichungen in den Bundesstaaten.
+Präsident Obama hob per Dekret zum 1.. Januar 2015 für Beschäftigte, deren Arbeitgeber auf Vertragsbasis für die Regierung tätig sind, den Mindestlohn von 7,25 auf 10,10 US-Dollar an.Laut einer Studie der Credit Suisse belief sich das totale Haushaltsvermögen (Eigentum weniger Schulden) 2017 auf 93,6 Billionen US-Dollar.
+Amerikanische Haushalte besitzen damit knapp ein Drittel des weltweiten Vermögens.. Insgesamt 6,4 % der erwachsenen Amerikaner waren Vermögensmillionäre.
+Im ersten Quartal 2018 überstieg das Haushaltsvermögen erstmals die Marke von 100 Billionen US-Dollar.
+
+
+=== Kennzahlen ===
+Im Global Competitiveness Index, der die Wettbewerbsfähigkeit eines Landes misst, belegen die USA den zweiten von insgesamt 137 Plätzen (Stand 2017–2018).. Im Index für wirtschaftliche Freiheit belegt das Land 2017 Platz 17 von 180 Ländern.
+
+
+=== Staatshaushalt ===
+
+Der Staatshaushalt umfasste 2016 Ausgaben von 3,89 Billionen US-Dollar, dem standen Einnahmen von 3,36 Billionen US-Dollar gegenüber.
+Daraus ergibt sich ein Haushaltsdefizit in Höhe von 2,8 % des BIP.. Das Defizit betrug 530 Milliarden Dollar.
+Die USA konnten in den letzten Jahren somit bei der Haushaltskonsolidierung deutliche Fortschritte erzielen.. Für 2017 bis 2019 wird ein jährliches Defizit von um die 2,9 Prozent des BIP erwartet.Die Staatsverschuldung der Vereinigten Staaten betrug Anfang Januar 2015 18,08 Billionen US-Dollar oder 104 % des BIP.
+Die lokalen Schulden belaufen sich nach der US Debt Clock im Januar 2015 auf 1,87 Billionen US-Dollar, die Schulden der 50 Bundesstaaten insgesamt auf rund 1,19 Billionen US-Dollar.. Im August 2014 waren 34,4 % der Staatsschulden Gläubigern aus dem Ausland zugeteilt, 65,6 % heimischen Gläubigern.
+Nach Angaben des US-Finanzministeriums besitzt China zum Jahresende 2013 US-Staatsanleihen im Wert von 1,27 Billionen Dollar und ist damit der größte ausländische Gläubiger der Vereinigten Staaten, gefolgt von Japan mit 1,18 Billionen Dollar und Belgien mit 256 Milliarden Dollar.
+
+
+== Infrastruktur ==
+Im Logistics Performance Index, der von der Weltbank erstellt wird und die Qualität der Infrastruktur misst, belegten die Vereinigten Staaten 2018 den 14.. Platz unter 160 Ländern.
+Die Vereinigten Staaten verfügen damit über eine leistungsfähige und hochmoderne Infrastruktur.. In einigen Bereichen besteht inzwischen allerdings erheblicher Investitionsbedarf.
+
+
+=== Energieversorgung ===
+Der Stromverbrauch der Vereinigten Staaten betrug 2014 ca.
+3.913 Terawattstunden pro Jahr, mit 12.950 kWh im Jahr haben die USA den weltweit zehnthöchsten Verbrauch pro Kopf.. Im Jahr 2015 wurden 36 % des Energieverbrauchs aus Erdöl, 16 % aus Kohle und 29 % aus Erdgas, 10 % aus erneuerbaren Energiequellen und 9 % aus Kernenergie generiert.
+Die Vereinigten Staaten sind der weltweit größte Verbraucher von Erdöl.. 2015 wurden 91 % des Energiebedarfs durch die eigene Produktion gedeckt.
+Über Jahrzehnte waren Öl, Erdgas und Kohle die Hauptenergiequellen in den Vereinigten Staaten.
+2008 erreichte die Kohleproduktion einen Höchstwert, fiel dann aber wieder ab, sodass 2015 die Produktion auf dem gleichen Niveau war wie 1981.. 2015 erreichte die Erdgasförderung einen Höchststand, primär durch Erschließung neuer Fördergebiete und Anwendung von effektiveren Fördermethoden, wie dem Fracking.
+Die Erdölgewinnung verringerte sich seit 1970 stetig.. Ab 2009 kehrte sich dieser Prozess parallel zur Erdgasförderung um, indem neue Gebiete, wie in Texas oder North Dakota, erschlossen und neue Fördermethoden angewendet wurden.
+2015 war die Erdölgewinnung fast wieder auf dem gleichen Stand wie von 1972.. Aufgrund von Produktivitätssprüngen ist die Öl- und Gasproduktion in den USA auch bei vergleichsweise niedrigen Preisen wettbewerbsfähig.
+Die USA sind größter Erdgasproduzent der Welt und gehören mit Russland und Saudi-Arabien zu den weltgrößten Ölproduzenten.. 2016 wurde mit Inbetriebnahme des Terminals Sabine Pass in Louisiana erstmals Flüssiggas (LNG) vom US-Festland exportiert.
+Weitere Terminals befinden sich bereits im Bau.. Das gesetzliche Exportverbot für Rohöl wurde Ende 2015 aufgehoben.
+Die Energiegewinnung durch erneuerbare Energien steigt in den USA kontinuierlich an, sodass 2015 ein neuer Höchststand erreicht wurde.Auch die Arbeitsplatzbilanz hat sich inzwischen in Richtung der erneuerbaren Energien verschoben.
+Beispielsweise waren 2016 in der Kohlebranche ungefähr 53.000 Menschen beschäftigt, während in der US-amerikanischen Solar- und Windenergiebranche rund 475.000 Arbeitsplätze vorhanden waren.
+
+
+=== Wasserversorgung ===
+Im globalen Vergleich haben die USA ein relativ gut ausgebautes und sicheres Wasser- und Trinkwassersystem.. Der überwiegende Großteil der amerikanischen Haushalte bezieht das Trinkwasser aus den Versorgungssystemen der Gemeinden.
+Die Wasserversorgungssysteme können in öffentlicher sowie in privater Hand sein.. Es gibt etwa 155.000 eigenständige Wasserversorger.
+Obgleich die meisten der Wasserversorgungssysteme Grundwasser beziehen, werden 68 % der Bevölkerung mit Oberflächenwasser versorgt, insbesondere in den Großstädten.Seit einigen Jahren ergeben Studien, dass Engpässe bei der Versorgung mit Trinkwasser wegen verschiedener Faktoren, wie eines sich verändernden Klimas und steigender Einwohnerzahlen, zunehmen könnten.. Gleichzeitig ermitteln Behörden und Institute der einzelnen Staaten und des Bundes Möglichkeiten, die Wasserversorgung und die Bewirtschaftung zu verbessern.
+
+
+=== Kommunikation ===
+Die Vereinigten Staaten weisen ein ausgebautes und technologisch fortgeschrittenes Kommunikationssystem auf.
+Es gab 2015 etwa 122 Millionen private Festnetzanschlüsse und 328 Millionen Mobilfunkanschlüsse.. Das Mobilfunknetz wird stetig ausgebaut.
+Das Internet, das in den USA seinen Ursprung hatte, hat sich zu einem bedeutenden Kommunikationsmittel entwickelt.
+Im Jahr 2000 hatten knapp über die Hälfte der amerikanischen Haushalte einen eigenen festen Internetzugang und 98 % aller Schulen.. 2016 gab es 286 Millionen Internetanschlüsse, sodass 88,5 % der Amerikaner einen Internetzugang hatten.
+
+
+=== Verkehr ===
+
+Das Verkehrsnetz ist polyzentrisch aufgebaut: Straßen, Schienen und Flugverbindungen laufen vor allem sternförmig auf die Ballungsräume New York, Philadelphia, Atlanta, Chicago, Houston, Charlotte, Dallas, Denver, Los Angeles und Seattle zu.
+Mit einer Gesamtlänge von 6.586.610 Kilometern haben die Vereinigten Staaten das längste Straßensystem der Welt (Stand: 2012).Der Güterverkehr wird vor allem von Eisenbahn und LKWs geleistet.. Der Personentransport findet mit Ausnahme des im Fernverkehr dominierenden Flugverkehrs fast ausschließlich auf der Straße (Individualverkehr oder Überlandbusse) statt.
+Die Bahn übernimmt nur noch einen Bruchteil des Personenverkehrs.. 87,2 % (-1,7 % gegenüber 2000) der Personenverkehrsleistung wurde 2010 mit Kraftfahrzeugen abgewickelt, 11,6 % (+1,5 %) der Personenkilometer wurden mit Flugzeugen zurückgelegt.
+Lediglich 0,9 % (+0,2 %) wurden im Linienverkehr und 0,4 % (+0,1 %) mit der Eisenbahn erbracht.Insbesondere für den Verkehr innerhalb der Bundesstaaten, teilweise aber auch für Langstrecken, hat der Überlandbusverkehr große Bedeutung.
+
+
+==== Straßenverkehr ====
+Die Vereinigten Staaten verfügen über ein ausgebautes Straßennetz.. Für den Lang- und Mittelstreckenverkehr existiert ein Netz von inner- und zwischenstaatlichen Fernstraßen.
+Die Interstate Highways sind mehrspurige Autobahnen, die zwischen den einzelnen Bundesstaaten liegen und die Ost- und Westküste miteinander verbinden.
+Das ab den 1950er Jahren errichtete Interstate Highway System ist über 75.000 km lang und wickelt ein Fünftel des motorisierten Verkehrs ab.. Finanziert wird der Neubau und die Instandhaltung hauptsächlich durch den Bund.
+Die United States Highways und States Highways sind Bundesstraßen, die ebenfalls zwischen den verschiedenen Staaten liegen.. Viele U.S.
+Highways führen jedoch auch als Ortsdurchfahrten durch Groß- und Kleinstädte und haben in der Regel weniger Fahrspuren als die Interstates.. Die United States Highways werden durch den jeweiligen Bundesstaat finanziert.
+Die State Routes auch State- oder Provincial Highways genannt sind untergeordnete Haupt- und Nebenstraßen.. Jeder Bundesstaat hat dabei ein eigenes System der Straßennummerierung und Bezeichnung, sowie eigene Schilder.
+Der Zustand und Ausbau bei den State Routes kann je nach Staat und Streckenabschnitt variieren.. In einigen Staaten können auf bestimmte Straßenabschnitte aller Straßenarten, Brücken oder Tunnel Mautgebühren anfallen.Im Straßenverkehr passierten mehr tödliche Unfälle als in den meisten anderen entwickelten Ländern.
+2013 kamen in den Vereinigten Staaten insgesamt 10,6 Verkehrstote auf 100.000 Einwohner.. Zum Vergleich: In Deutschland waren es im selben Jahr 4,3 Tote.
+Insgesamt kamen damit 34.000 Personen im Straßenverkehr ums Leben.. Allerdings muss dabei die hohe Motorisierungsrate des Landes beachtet werden.
+2017 kamen in den USA 910 Kraftfahrzeuge auf 1000 Einwohner.. In Deutschland waren es nur 562 Fahrzeuge.
+Mit über 255 Millionen Einheiten verfügen die USA über den größten Fuhrpark aller Staaten.
+
+
+==== Eisenbahn ====
+
+Für den Massengüterverkehr über lange Strecken spielt die im Güterverkehr von verschiedenen privaten Gesellschaften betriebene Eisenbahn noch heute eine große Rolle.. Mit einer Gesamtlänge von 293.564 Kilometern im Jahre 2014 haben die Vereinigten Staaten das längste Eisenbahnnetz der Welt.
+Es dominieren sieben große überregionale Bahngesellschaften den Markt.. Daneben gibt es noch mehrere hunderte weitere kleinere Gesellschaften.
+Die Bedeutung des Schienenverkehrs ist nicht mehr mit den Jahrzehnten seit der Verkehrserschließung durch die transkontinentalen Eisenbahnen bis zur Mitte des 20.. Jahrhunderts zu vergleichen.
+Nichtsdestotrotz steigt seit einigen Jahren die Wichtigkeit der Eisenbahn wieder; zwischen 2000 und 2012 hat sich die Anzahl der beförderten Personen von Amtrak fast verdoppelt.. Weite Teile des Streckennetzes sind nicht elektrifiziert und werden mit Diesellokomotiven bedient.
+Ein großer Teil der Nebenstrecken ist gering ausgebaut und in einem sanierungsbedürftigen Zustand.. Der Güterverkehr hat im Vergleich zu anderen Ländern eine wesentlich höhere Produktivität, das Haupttransportgut auf der Schiene ist Kohle (45 % des Gütervolumens).In den städtischen Ballungsgebieten der Ostküste, Kaliforniens und im Raum Chicago hat der Personenverkehr auf der Schiene eine gewisse Rolle behalten, die er teilweise sogar wieder ausbauen konnte, beispielsweise mit dem Acela Express zwischen Washington D.C.
+und Boston, der eine Durchschnittsgeschwindigkeit von 140 km/h erreicht.. Die weiten Strecken zwischen den städtischen Agglomerationen werden fahrplanmäßig bedient, jedoch liegt die Hauptbedeutung hier eher im touristischen Bereich – vergleichbar den Schienenkreuzfahrten in Europa, auch aufgrund meist sehr langer Fahrzeiten und geringer Geschwindigkeiten.
+Insgesamt hat der Schienenverkehr nur einen sehr geringen Anteil am gesamten Personenverkehr in den Vereinigten Staaten, bei weitem geringer als in anderen Staaten.. Der Personenverkehr wird hauptsächlich von der Gesellschaft Amtrak betrieben.
+Die US-Regierung plante den Aufbau eines Hochgeschwindigkeitsnetzes auf zehn Korridoren zwischen verschiedenen großen Ballungsräumen, u.
+a.. an der Westküste in Kalifornien und an der Ostküste, verteilt bis 2017.
+Vor allem aufgrund des überlasteten Straßen- bzw.. Flugverkehrs sei dies langfristig sinnvoll.
+Insgesamt sollte das Projekt 53 Milliarden US-Dollar (ca.. 39 Milliarden Euro) kosten, hauptsächlich finanziert aus dem Konjunkturpaket der Vereinigten Staaten.
+Der Obama-Administration ist es jedoch nicht gelungen, die notwendigen Mittel im Haushalt durch den Kongress genehmigen zu lassen.
+
+
+==== Flugverkehr ====
+
+Wichtiger Verkehrsträger im Personenverkehr für Lang-, Mittel- und auch Kurzstrecken ist der Flugverkehr.
+Die Vereinigten Staaten weisen das größte und ausgebauteste Zivilluftfahrtssystem der Welt auf.. Es gibt insgesamt 19.000 Start-und-Lande-Bahnen verschiedenster Kategorien, davon 389 größere.
+88 % aller Passagiere starten von den 62 größten Flughäfen im Land.. Die größten amerikanischen Fluggesellschaften sind American Airlines, Delta Air Lines, Southwest Airlines und United Airlines.
+Unter den hinsichtlich der Passagierzahlen zehn größten Fluggesellschaften der Welt sind fünf amerikanische vertreten.. 2017 wurden insgesamt über 849 Millionen Personen von im Land registrierten Airlines transportiert.Der nach Passagieraufkommen größte Flughafen der Welt befindet sich in Atlanta.
+Weitere wichtige Drehkreuze sind in Los Angeles, Chicago, Dallas-Fort Worth, New York, Denver, San Francisco, Charlotte, Las Vegas und Miami.. Kleine Flughäfen mit planmäßigem Betrieb gibt es in nahezu jeder Kleinstadt.
+
+
+==== Seeschifffahrt ====
+Schifffahrtswege werden primär für den Fracht- und Gütertransport genutzt.
+Im Inland umfasst das Netz von Wasserwegen 40.000 Kilometer, davon ist die Hälfte für alle größeren Schiffe befahrbar.. Es gibt etwa 230 Anlegeplätze.
+Insgesamt sind 41 der 50 Bundesstaaten miteinander über den Wasserweg verbunden.. Wichtige Wasserwege im Inland sind u.
+a.. der Mississippi, der sich von New Orleans bis nach Minneapolis erstreckt, sowie das Ohio Fluss-Becken.
+2014 wurden etwa 600 Millionen Tonnen Güter durch Binnenschiffe transportiert, das machte 5 % des kommerziellen Güterverkehrs aus.. An den Küsten sind der Gulf Intracoastal Waterway und die Kanäle an der Pazifikküste von Gewicht.
+Die größten Frachthäfen befinden sich unter anderem in Boston, Chicago (über den Sankt-Lorenz-Großschifffahrtsweg), New York, Houston, Los Angeles sowie in Louisiana.
+Große Bedeutung hat die Kreuzschifffahrt; die Hälfte des weltweiten Passagieraufkommens für Kreuzfahrten kommt aus den Vereinigten Staaten, die mit Abstand wichtigste Destination ist dabei die Karibik.
+
+
+== Kultur ==
+
+Die amerikanische Kultur ist geprägt von der Vielfalt der ethnischen Einflüsse und Traditionen, die zahlreiche Einwanderergruppen mitbrachten.. Erst in den 1930er Jahren bildete sich durch die Massenmedien eine einheitliche amerikanische Populärkultur heraus.
+Verschiedene Kulturwissenschaftler haben sich mit der typisch amerikanischen Mentalität befasst, Selbstbild und Fremdbilder verglichen und daraus sogenannte Kulturstandards des Verhaltens formuliert.
+Die frühe Kulturproduktion in den Vereinigten Staaten war vor allem durch die englische „Leitkultur“ geprägt, die aber aufgrund der neuen, einzigartigen Verhältnisse schnell an Eigenständigkeit gewann.. Den afrikanischen Sklaven wurde eine Ausübung ihrer kulturellen Traditionen und eine eigene Kulturproduktion verboten, so dass sie sich stark an europäischen Mustern orientieren mussten.
+Jedoch konnten Elemente ihrer Ursprungskulturen im Geheimen aufrechterhalten werden.
+Im 20.. Jahrhundert lösten sich amerikanische Künstler von den Vorbildern der Alten Welt.
+Die unterschiedlichen kulturellen Disziplinen wurden in neue Richtungen erweitert.
+
+Zur zeitgenössischen Kunst- und Unterhaltungsszene in den Vereinigten Staaten gehörten die Verjüngung der Musik, Neuentwicklungen im Modernen Tanz, die Verwendung ureigener amerikanischer Themen im Theater, die Filmproduktion in ihrer ganzen Bandbreite und die Globalisierung der Bildenden Künste.
+
+In den Vereinigten Staaten gibt es – ähnlich wie in Deutschland, aber anders als in Frankreich – kein zentrales Kulturministerium, das eine landesweite Kulturpolitik steuert.. In dieser Tatsache spiegelt sich die Überzeugung wider, dass es Bereiche im gesellschaftlichen Leben gibt, in denen die Regierung nur eine kleine oder gar keine Rolle spielen sollte.
+Die zwei nationalen Stiftungen für Kunst und Geisteswissenschaften – „National Endowment for the Arts“ (NEA) und „National Endowment for the Humanities“ (NEH) – unterstützen mit Zuschüssen sowohl einzelne Künstler und Wissenschaftler als auch Institutionen, die im Bereich der Kunst und Geisteswissenschaften tätig sind.. Seit der „Republican Revolution“ 1994, bei der die Republikaner im Kongress die Mehrheit errangen, wurden beide Stiftungen sowie auch die öffentlichen Rundfunkanstalten PBS und NPR immer wieder durch Mittelkürzungen bedroht, oft begleitet von dem Vorwurf, sie betrieben eine „linke“ Politik zugunsten einer „Elite“.
+Insbesondere Kunst, die von christlich-fundamentalistischen oder stark römisch-katholischen Kreisen kritisch betrachtet wird, wird ein Zielpunkt dieser Drohungen.
+Während das Budget der NEA, das sich 2003 auf 115 Millionen US-Dollar belief, verglichen mit der Kulturförderung anderer Länder bescheiden war, so machten von jeher private Spenden den Großteil der Kulturförderung aus.. Diese privaten Spenden wurden für das Jahr 2002 auf ungefähr 12,1 Milliarden US-Dollar geschätzt.
+
+
+=== Indigene Kultur ===
+
+Die Kulturformen der rund 350 als Stämme (tribes) betrachteten Indianergruppen, deren Angehörige sich als American Indians oder Native Americans bezeichnen und im Hauptteil der Vereinigten Staaten leben, sind nicht einheitlich, auch die in Alaska lebenden 225 anerkannten Stämme der Alaska Natives unterscheiden sich erheblich, erst recht die Gruppen auf Hawaii.
+Innerhalb des Landes, zwischen Stadt und Land, sowie zwischen den ethnischen Gruppen sind die Unterschiede denkbar groß.. Sie entwickelten eigene Identitäten und kulturelle Strukturen, die sich Kulturarealen zuordnen lassen, die Zahl der Sprachen war sehr hoch, jedoch sind viele von ihnen vom Aussterben bedroht.
+Die größte Sprache mit rund 150.000 Sprechern ist das Navajo.
+An der Pazifikküste war die Kultur von Fischfang dominiert, oder vom Walfang, wie bei den Makah im Nordwesten Washingtons.. Dort finden sich gewaltige Totempfähle, deren größter in Washington steht.
+Im Binnenland dominierten berittene Jagd, Sammeln und Flussfischerei.. In den großen Ebenen, den Plains, stand die Bisonjagd im Mittelpunkt, in anderen der Elch.
+Durch die Ankunft des Pferdes entwickelte sich ab dem 17.. Jahrhundert ein Reiternomadismus, der weiträumige Völkerbewegungen in Gang setzte.
+Der Osten hingegen wurde ab 1830 weitgehend entvölkert (Pfad der Tränen), so dass der indianische Kultureinfluss hier lange weniger zu spüren war.
+Ähnlich wie die Literatur verfolgt die indianische Kunstszene nicht nur traditionelle Elemente, sondern verbindet sie mit von Europa inspirierten Mitteln der amerikanischen Kultur.. Andere Indianerkünstler produzieren losgelöst von diesen Traditionen in deren Genres und mit deren Mitteln.
+Meist stehen in der Literatur ökologische Probleme, Armut und Gewalt, entmenschte Technik oder Spiritualität im Vordergrund.. Dabei reicht die schriftliche Tradition bis in das frühe 19.
+Jahrhundert zurück, riss jedoch immer wieder ab: William Apes: The Experience of William Apes, a Native of the Forest (1831), ein Pequot, George Copway, ein Anishinabe und Elias Johnson, ein Tuscarora sind frühe Beispiele.. Die Novelle Laughing Boy von Oliver La Farge (1929) wurde erst in den 1960er Jahren wieder aufgenommen.
+Der Kiowa N.. Scott Momaday erhielt 1969 den Pulitzer-Preis für House Made of Dawn, Vine Deloria publizierte Custer Died For Your Sins.
+An Indian Manifesto.. Den nationalen Rahmen sprengte Dee Browns Bury My Heart At Wounded Knee von 1970.
+
+
+=== Musik ===
+
+Ein wesentlicher Beitrag der Vereinigten Staaten zur Weltkultur ist die Entwicklung des Jazz, der als erste eigenständige Musikform der Vereinigten Staaten gilt, sowie des Blues und des Country, aus deren Zusammenführung in den 1950er Jahren der Rock ’n’ Roll entstand.
+Diese Musikkultur ist einzigartig durch den Zusammenfluss afroamerikanischer mit europäischer Folklore und bildet heute eine zentrale Grundlage der populären Kultur der westlichen Welt.
+Seit 1959 werden die Grammy Awards von der Recording Academy in Los Angeles jährlich in derzeit 78 Kategorien an Künstler wie Sänger, Komponisten, Musiker sowie Produktionsleiter und die Tontechnik verliehen.. Der Grammy gilt als die höchste internationale Auszeichnung für Künstler und Aufnahmeteams.
+
+
+=== Film ===
+
+
+=== Theater ===
+
+
+=== Literatur ===
+
+Die Literaturproduktion knüpfte in keiner Weise an die Traditionen der Indianer an, sondern setzte mit Reiseberichten und Geschichtsschreibung ein, hinzu kamen Tagebücher und theologische Literatur.
+Das erste gedruckte Buch war das Bay Psalm Book von 1640.. Die wichtigsten puritanischen Dichter waren Edward Taylor und Anne Bradstreet (The Tenth Muse Lately Sprung Up in America, London 1650).
+1704 verfasste Sarah Kemble Knight den Bericht einer Reise von Boston nach New York (The Journal of Madam Knight), womit die Landschaft erstmals eine Auseinandersetzung erzwang.
+Mit den Gefangenschaftsberichten bei Indianern drangen zudem interkulturelle Kontakte und Fremdheit in die Literatur vor, wie etwa bei Mary Rowlandson oder John Smiths Bericht über seine angebliche Rettung durch Pocahontas.. Als wichtigstes Werk der puritanischen Geschichtsschreibung gelten die Magnalia Christi Americana (1702) von Cotton Mather.
+Zahlreiche politische Essays und Satiren, die in England wie in den Vereinigten Staaten gelesen wurden, stammten aus der Feder von Benjamin Franklin.
+Patriotismus prägte die Literatur der Gründungsjahre.. Philip Freneau wurde zum „Dichter der amerikanischen Revolution“ und zeichnete ein wohlwollendes Bild der Indianer.
+Webster kompilierte von 1806 bis 1828 sein An American Dictionary of the English Language.. Auf seine Rechtschreibform gehen zahlreiche Unterschiede des amerikanischen gegenüber dem britischen Englisch zurück.
+Charles Brockden Brown griff die englische Tradition der Gothic Novel auf und gilt als Wegbereiter des psychologischen Romans.
+Washington Irving und James Fenimore Cooper waren von den historischen Romanen Sir Walter Scotts beeinflusst.. Irving wird oft als Begründer der Kurzgeschichte bezeichnet.
+Cooper erfasste im „Lederstrumpf“ (1823–1841) die Frontiererfahrung und präsentierte Indianer als „edle Wilde“.
+Die amerikanische Romantik, häufig als American Renaissance bezeichnet, erreichte ihren Höhepunkt über 30 Jahre nach der europäischen.. Von Ralph Waldo Emerson ging der Transzendentalismus aus.
+Er berief sich auf Immanuel Kants Transzendentalphilosophie, verband sie jedoch mit fernöstlicher und indischer Philosophie.. Sein The American Scholar von 1837 wurde als „kulturelle Unabhängigkeitserklärung“ der Vereinigten Staaten bezeichnet.
+Henry David Thoreau lebte zwei Jahre in einer Blockhütte.
+Sein Streben nach einem alternativen Lebensentwurf machte sein über diese zwei Jahre berichtendes Walden in den 1960er Jahren zu einem Kultbuch der Hippiebewegung.. Thoreaus politischer Essay Ziviler Ungehorsam (1849) beeinflusste Martin Luther King ebenso wie die Umweltbewegung.
+Walt Whitman stellte in freien Versen die Körperlichkeit in den Vordergrund, Nathaniel Hawthorne war dagegen von einem tiefen Skeptizismus geprägt.
+Seine Themen waren Schuld, Strafe und Intoleranz, etwa in der Gesellschaft seiner puritanischen Vorfahren.. In Die Blithedale-Maskerade 1841 schilderte er das Scheitern einer utopischen Kommune.
+Herman Melvilles Moby Dick (1851) war eine Reflexion über die Fragen des Daseins, über Gut und Böse, die Begrenztheit der menschlichen Erkenntnisfähigkeit.
+Dieses und seine Spätwerke, wie Bartleby der Schreiber, wurden erst lange nach seinem Tod anerkannt.
+Edgar Allan Poes Kurzgeschichten beeinflussten die Entwicklung der phantastischen und der Horrorliteratur, mit Der Doppelmord in der Rue Morgue erfand er die Detektivgeschichte.. Poe gelang es mittels einer Dichtungstheorie (Die Philosophie der Komposition, Das poetische Prinzip) die Lyrik in das Gebiet symbolistischer und lautpoetischer Sprachkunst zu entwickeln.
+Der Konflikt zwischen Nord- und Südstaaten um die Sklaverei wurde auch mit literarischen Mitteln ausgetragen.
+1789 erschien die Autobiografie Olaudah Equianos, Harriet Beecher Stowes Onkel Toms Hütte (1852) wurde im Norden ein Bestseller.
+Herausragend sind Faulkners Yoknapatawpha-Romane (1930er Jahre), Stephen Vincent Benéts John Brown’s Body (1928) und nicht zuletzt Margaret Mitchells Vom Winde verweht (1936).. Die Südstaaten schwankten zwischen Nostalgie und scharfer Kritik.
+Der Dichter und Musiker Sidney Lanier schrieb düstere Oden, Kate Chopin über die kreolisch geprägte Gesellschaft Louisianas.. Mark Twains – Die Abenteuer des Huckleberry Finn (1885) – oder Frank Norris’ local color literature exponierten regionale Eigenheiten und Dialekte.
+Das Massenelend in den Städten wurde zum Thema.
+Jack London zog während des Klondike-Goldrauschs in den äußersten Norden (Ruf der Wildnis).. Frank Norris gehörte wie London der radikalen Literaturszene San Franciscos an.
+Seine Romane thematisierten das harte Leben in Kalifornien, dem vermeintlichen Gelobten Land (Gier nach Gold, 1899).. Upton Sinclair deckte in Der Sumpf (1906) die Missstände in den Schlachthöfen Chicagos auf.
+T.
+S.. Eliot oder W.
+H.. Auden, Ezra Pound und Hilda Doolittle (H.
+D.) gelten als Vertreter der Moderne.. Viele amerikanische Schriftsteller verbrachten einige Zeit in Europa; Stein schuf für sie den Begriff („Verlorene Generation“).
+John Dos Passos schrieb mit Manhattan Transfer den bekanntesten Großstadtroman.. Als 1927 die Anarchisten Sacco und Vanzetti hingerichtet wurden, hielten vor den Gefängnistoren John Dos Passos, Langston Hughes und Edna St.
+Vincent Millay Mahnwache.. Viele Schriftsteller wandten sich dem Sozialismus zu.
+Die „proletarische Literatur“ erreichte mit Werken wie Dos Passos’ U.S.A.-Trilogie (1930–1936) und John Steinbecks Früchte des Zorns (1939) ihren Höhepunkt.
+Die zwölf Autoren des Pamphlets I’ll Take My Stand und ihre Nachfolger wurden als Southern Agrarians bekannt; sie wandten sich gegen Rationalität, Industrialisierung und Verstädterung.. Eliot veröffentlichte 1922 das wohl bekannteste Gedicht der englischsprachigen Moderne: Das wüste Land.
+Gertrude Steins Gedichte sind oft mehr dem Klang als dem Sinn verpflichtet.
+Ein Extrem der Prosa stellt der knappe Stil Ernest Hemingways dar, ein entgegengesetztes die wuchernden Sätze William Faulkners.. Sein Werk (Literaturnobelpreis 1950) wurde in Frankreich insbesondere von Jean-Paul Sartre und anderen Existenzialisten, in Deutschland von Gottfried Benn gefeiert.
+Den größten Einfluss hatte er aber wohl auf die lateinamerikanische Literatur, insbesondere des magischen Realismus.. Sherwood Anderson und Thomas Wolfe waren Vorbilder Faulkners.
+F.. Scott Fitzgeralds Werke beobachteten die gehobene Gesellschaft New Yorks oder die Exilanten-Bohème, und so wurde er zum Chronisten der „wilden Zwanziger“.
+In Der große Gatsby (1925) griff er den amerikanischen Erfolgsmythos auf.
+
+Mit der Harlem Renaissance begann um 1920 eine Blütezeit der afroamerikanischen Literatur, stark beeinflusst von Alain LeRoy Lockes Anthologie The New Negro (1925).. Richard Wright und Ralph Ellison gehörten der Generation an, die auf die der Harlem Renaissance folgte und in ihr Vorbilder fand, aber deren Optimismus der Resignation gewichen war.
+Wrights Native Son (1940) und Ellisons Der unsichtbare Mann (1951) gelten als die zentralen Werke.
+Nach dem Zweiten Weltkrieg erschienen Norman Mailers Die Nackten und die Toten und Gore Vidals Williwaw, James Jones' Verdammt in alle Ewigkeit und Herman Wouks Die Caine war ihr Schicksal.. Mailer verarbeitete sein Engagement in der Antikriegsbewegung in Heere aus der Nacht, für den er „faction“ (Neubildung aus fact und fiction) als neue Literaturgattung erfand.
+Vidal löste 1948 mit Geschlossener Kreis einem der ersten schwulen Romane, einen Skandal aus.
+Henry Miller pflegte eine ablehnende Haltung: Der klimatisierte Alptraum (1945) ist einer seiner Titel und zugleich sein Spottname für die Vereinigten Staaten.. Er erlangte mit Wendekreis des Krebses (1934) und Wendekreis des Steinbocks (1939) einen Ruf als Skandalautor.
+Seine Werke sind – wie auch die Trilogie Nexus, Plexus, Sexus (1948–1960) – jedoch eher als spirituelle Biografie und Zeugnisse mystischer Neigungen interessant.
+In den späten 1940er Jahren bildete sich um Allen Ginsberg, Jack Kerouac, Gregory Corso und William S.. Burroughs eine neue literarische Bohème, die als Beat Generation bezeichnet wurde.
+Der kulturelle Einfluss der beat poets zeigt sich darin, dass die nonkonformistische Jugendbewegung um 1960 nach ihnen als Beatniks bezeichnet wurde.. Ginsbergs Gedichte stehen in ihrer freien Form, im radikalen Individualismus und visionären Drang in der Tradition Whitmans, sind aber zugleich ironisch-verzweifelte Kommentare zum Zustand der Gesellschaft.
+So wurde er in den 1960er Jahren zu einer Symbolfigur der Hippies.
+Jack Kerouacs bekanntester Roman On the Road beschreibt eine Reise zweier junger Männer auf der Flucht vor Zwängen und auf der Suche nach Sinnesfreuden und spiritueller Erfüllung als Gegenentwurf gegen Materialismus und Konformitätszwang.. Eine zentrale Figur der Hippiebewegung wurde auch Ken Kesey mit Einer flog über das Kuckucksnest.
+In den 1960er und 1970er Jahren wurden im engeren Sinne experimentelle Autoren wie Vladimir Nabokov, Thomas Pynchon und John Barth als „postmodern“ bezeichnet.
+Heute wird oftmals die gesamte Literaturproduktion etwa ab 1960 unter dem Begriff der Postmoderne gefasst, weil sie als Produkt einer postmodernen Gesellschaft begriffen wird.. Wege gemeinschaftlichen literarischen Schaffens erproben Systeme wie NaNoWriMo.
+
+
+=== Bildende Kunst und Architektur ===
+
+
+=== Massenmedien ===
+In dem im 20.
+Jahrhundert stattfindenden Prozess der Durchdringung aller Bereiche des täglichen Lebens durch Medien haben die Vereinigten Staaten immer eine Vorreiterrolle gespielt.. Schon in der ersten Hälfte des 19.
+Jahrhunderts ist die Entstehung einer Boulevardpresse zu beobachten.. Auch die massenhafte Verbreitung von Radio, Fernsehen, Computer und Internet begann hier früher als im Rest der Welt.
+1998 besaßen bereits 53 % der Haushalte einen eigenen Personal Computer.
+
+
+==== Geschichte und Verfassungsverständnis ====
+Schon in den Gründerkolonien entwickelte sich rasch ein Zeitungswesen.. Die erste von den Briten allerdings gleich wieder verbotene Zeitung namens Publick occurences, Both Foreign and Domestik erschien bereits 1690.
+Zu Beginn des 18.. Jahrhunderts wurden bereits regelmäßig Zeitungen veröffentlicht, darunter viele deutschsprachige.
+Die erste deutschsprachige Zeitung im Gebiet der heutigen Vereinigten Staaten war die 1732 von Benjamin Franklin gegründete Philadelphische Zeitung.. In den Revolutionsjahren nahm die Publikationsfreude der vor allem englisch- und deutschstämmigen Einwanderer stark zu.
+Als die Unabhängigkeitserklärung 1776 verabschiedet wurde, erschien sie zunächst im deutschsprachigen Pennsylvanischen Staatsboten.. Eine Veröffentlichung der Erklärung in der englischsprachigen Presse erfolgte erst später.
+Der Pressefreiheit wurde im ersten Verfassungszusatz 1791 ein prominenter Platz eingeräumt.
+In den Vereinigten Staaten herrschte schon früh die Überzeugung, dass das allgemeine Wohl am besten durch einen, wie es Oliver W.. Holmes 1919 formulierte, „freien Austausch/Handel von Ideen und Vorstellungen“ („free trade of ideas“) erreicht werde.
+Diese Funktion des ersten Zusatzartikels bestätigte der Supreme Court im Jahr 1969: „It is the right of the viewers and listeners, not the right of the broadcasters, which is paramount.. It is the purpose of the First Amendment to preserve an uninhibited marketplace of ideas in which truth will ultimately prevail, rather than to countenance monopolization of that market“Bei der Rangliste der Pressefreiheit 2019, welche von Reporter ohne Grenzen herausgegeben wird, belegten die USA Platz 48 von 180 Ländern.
+Die USA belegten damit eine der schlechtesten Positionen innerhalb der westlichen Welt.. Reporter ohne Grenzen kritisiert, dass Präsident Donald Trump Stimmung gegen Medien und Journalisten macht und sie sogar zum „Feind des amerikanischen Volkes“ erklärt.
+Zudem versucht das Weiße Haus immer wieder, Journalisten den Zutritt zu verwehren.
+
+
+==== Medienkonzerne ====
+
+Time Warner ist ein Medienunternehmen mit zahlreichen Geschäftsfeldern.. Zu Time Warner gehören unter anderem das Film- und Fernsehstudio Warner Bros., der Pay-TV-Sender Home Box Office (HBO) und die Time Inc.
+Buch- und Zeitschriftenverlage.. Viacom ist ein amerikanischer Medienkonzern mit Beteiligungen an MTV Networks und Paramount Pictures.
+NBC Universal ist das drittgrößte Medienunternehmen der Welt, nach Time Warner und Viacom.. Zu NBC Universal gehören die amerikanischen Sender National Broadcasting Company (NBC), USA Network und MSNBC, sowie das Filmunternehmen Universal Studios.
+Die News Corporation ist ein Medienkonzern des Hauptaktionärs Rupert Murdoch.. Die News Corporation hat zahlreiche Beteiligungen an Film- und Fernsehunternehmen, Zeitungs- und Buchverlagen.
+Zu den Beteiligungen gehören u.. a.
+die Unternehmen 20th Century Fox, Fox Broadcasting Company, New York Post und Dow Jones (Wall Street Journal).
+
+
+=== Bildung ===
+
+
+=== Tourismus ===
+
+
+=== Wissenschaft ===
+
+Seit den Anfängen als unabhängige Nation haben die Vereinigten Staaten durch Ermöglichung des freien Austausches von Ideen, der Verbreitung von Wissen und durch die Aufnahme kreativer Menschen aus aller Welt Wissenschaft und Erfindungen gefördert.. Die Verfassung spiegelt den Wunsch nach wissenschaftlicher Aktivität wider.
+Sie gibt dem Kongress die Befugnis, „[…] den Fortschritt der Wissenschaft und nützlicher Künste zu fördern, indem Urhebern und Erfindern für eine begrenzte Zeit das Exklusivrecht auf ihre jeweiligen Schriften und Entdeckungen zugesichert wird […]“.. Diese Bestimmung ist Grundlage für das Patent- und Warenzeichensystem der Vereinigten Staaten.
+Zwei der Gründerväter der Vereinigten Staaten waren selbst namhafte Wissenschaftler.
+Benjamin Franklin führte mit einer Reihe von Experimenten den Nachweis, dass der Blitz eine Art von Elektrizität ist, und erfand den Blitzableiter.. Thomas Jefferson studierte Landwirtschaft und führte neue Reis-, Olivenbaum- und Grassorten in die Neue Welt ein.
+Im 19.
+Jahrhundert stammten die führenden neuen Ideen in Naturwissenschaft und Mathematik aus Großbritannien, Frankreich und Deutschland, doch wurden sie vielfach nicht rezipiert.. Aufgrund der weiten Entfernung zwischen den Vereinigten Staaten und den Ursprungsländern der westlichen Wissenschaft und Produktion war es oft notwendig, eigene Vorgehensweisen zu entwickeln.
+Forscher und Erfinder aus den Vereinigten Staaten lagen zwar bei der Entwicklung von Theorien im Rückstand, aber sie brillierten in den angewandten Naturwissenschaften.. Vor diesem Hintergrund kam es zu einer Vielzahl wichtiger Erfindungen.
+Große amerikanische Erfinder sind Robert Fulton (Dampfschiff), Samuel F.. B.
+Morse (Telegraf), Eli Whitney (Egreniermaschine zur Baumwollentkörnung), Cyrus McCormick (Mäher), die Brüder Wright (Motorflugzeug) und Thomas Alva Edison, der mit mehr als eintausend Erfindungen produktivste Erfinder.
+In der zweiten Hälfte des 20.. Jahrhunderts wurden amerikanische Wissenschaftler zunehmend für ihre Beiträge zur Wissenschaft, der Formulierung von Konzepten und Theorien, anerkannt.
+Diese Veränderung zeigt sich auch bei den Gewinnern der Nobelpreise in Physik und Chemie.. Unter den Nobelpreisgewinnern in der ersten Hälfte des Jahrhunderts – 1901 bis 1950 – stellten Amerikaner in den Naturwissenschaften nur eine kleine Minderheit.
+Seit 1950 haben in den Vereinigten Staaten tätige Wissenschaftler etwa die Hälfte der in den Naturwissenschaften verliehenen Nobelpreise erhalten.. Die Verarbeitung nicht-angelsächsischer Forschung unterlag von Anfang an starker Beschränkung durch die Tatsache, dass die einzig gängige Sprache das Englische war.
+Wurde in den Nachkriegsjahren höhere Bildung als öffentliches Gut betrachtet und Forschung als eine nationale Ressource, so änderte sich dies in den 1980er Jahren.
+Bildung verlor an intrinsischem Wert, sie unterlag zunehmend den kapitalistischen Marktregeln, wurde eher als persönliche Investition betrachtet und damit zum privaten Gut und zum Mittel des Markterfolgs.. Während bis weit in die 1970er Jahre ein gehobener akademischer Abschluss mit gesellschaftlichem Erfolg gleichgesetzt wurde, erzeugte die veränderte Mentalität ein Überangebot an Promovierten, und, angesichts der zunehmenden Kosten, eine sinkende Bereitschaft, sich in Gesellschafts- und Geisteswissenschaften zu engagieren.Die Vereinigten Staaten betreiben seit 1958 ein aktives Raumfahrtprogramm, die NASA.
+
+
+=== Küche ===
+
+Die traditionelle amerikanische Küche verwendet einheimische Zutaten wie Truthahn, Wildbret, Kartoffeln, Süßkartoffeln, Mais, Kürbis und Ahornsirup, die von den amerikanischen Ureinwohnern und den ersten europäischen Siedlern genutzt wurden.
+Weizen ist die meistgenutzte Getreidesorte.
+Soul Food, die Küche der früheren afrikanischen Sklaven, ist besonders im Süden der Vereinigten Staaten und bei Afroamerikanern beliebt.. Synkretische Küchen wie die kreolische, Cajun und Tex-Mex sind ebenfalls beliebt.
+Gerichte wie Apple Pie, frittiertes Hühnchen, Hamburger und Hotdogs stammen von Rezepten verschiedener Immigranten.. Pommes frites, mexikanische Gerichte wie Burritos und Tacos sowie Pizza und Nudelgerichte, die aus der italienischen Küche übernommen wurden, sind verbreitet.
+Amerikaner bevorzugen meist Kaffee gegenüber Tee.. Des Weiteren werden Orangensaft und milchhaltige Frühstücksgetränke konsumiert.Die Fast-Food-Industrie führte in den 1930er-Jahren als erste die Drive-in-Bedienung ein.
+Während der 1980er- und 1990er-Jahre nahm die Zufuhr von Nahrungsenergie der Amerikaner um 24 % zu.. Häufiges Essen in Fast-Food-Restaurants wird mit dem in den Vereinigten Staaten verbreiteten Übergewicht in Verbindung gebracht.
+Gesüßte Soft Drinks sind beliebt und machen neun Prozent der Kalorienzufuhr der Amerikaner aus.
+
+
+=== Sport ===
+
+Die Vereinigten Staaten haben eine ausgeprägte Sportkultur in den De-facto-Nationalsportarten American Football, Baseball und Basketball.. Profi-Ligen, in denen auf internationalem Niveau gespielt wird, sind die NFL (American Football), die MLB (Baseball), die NBA (Basketball) und die NHL (Eishockey).
+Der amerikanische Sport steht im Wechselspiel zwischen Isolationismus und Internationalismus.Bisher fanden acht Mal Olympische Spiele in den Vereinigten Staaten statt.. Das Land belegt mit insgesamt 2803 Medaillen (davon 1119 goldene) (Stand: 6.
+März 2017) den ersten Platz im ewigen Medaillenspiegel der Olympischen Spiele.
+Eine Aufteilung in Leistungs- und Breitensport existiert nicht wie im deutschen Verständnis.. Vielmehr hat sich eine Riege bestimmter Sekundärsportarten entwickelt, deren Bedeutung nicht an der (im Übrigen eher geringen) Kommerzialisierung und Verarbeitung in den landesweiten Medien, sondern an der Verbreitung an Schulen sowie an der Masse der regionalen Auseinandersetzungen gemessen wird.
+Zu diesen Sportarten zählt neben dem Fußball (amerikanisches Englisch: soccer) das weitverbreitete Lacrosse.
+Typisch für das amerikanische Sportgeschehen ist eine hohe Betonung des Unterhaltungseffekts sowie des integrativen Charakters des Sports.. Kennzeichnend für die große Nachfrage nach dem Unterhaltungswert des Sports ist neben dem durchgehend aufwendigen Einsatz von Show- und choreografischen Elementen (Beleuchtung, Cheerleader) in manchen Sportarten eine meist ungefährliche Inszenierung von Action und Gewalt, beispielsweise beim Wrestling.
+Die Vereinigten Staaten sind darüber hinaus Initiatoren einer weiteren subjektiven Einteilung diverser Sportarten, die bei bewusster Schaffung eines Lebensgefühls vor allem als legere Freizeitgestaltung betrieben werden.
+Dazu gehören neben Tennis und Bodybuilding diverse Trendsportarten.
+Die großen Hoffnungen, die die Gesellschaft der Vereinigten Staaten in den integrierenden Effekt des Sports legt, werden angesichts der Aufstiegsmöglichkeiten darin deutlich.. Ein bedeutender Teil der Stipendien für die Universitäten wird an sportliche Talente vergeben.
+Der dabei im In- und Ausland oft geäußerte Vorwurf, dass solche Stipendiaten ohne ihre athletischen Fähigkeiten intellektuell an einer Hochschule nicht bestehen würden, trifft selten zu, da auf schulische Leistungen großer Wert gelegt wird und bei mangelhaften schulischen Leistungen die Sportausübung beschnitten wird.. In einem für die Nationalsportarten im Laufe der Zeit entwickelten Modus, dem sogenannten Drafting System, werden unter Einstreuung gewisser Zufälligkeiten die Erstzugriffsrechte auf die besten Talente eines Jahrgangs an die schwächsten Vereine vergeben.
+Im Gegensatz zum Lacrosse versucht die Führung des Fußballsports in den Vereinigten Staaten, Anschluss an die wesentlich verbreiteteren Sportarten American Football, Baseball, Basketball und Eishockey zu finden.
+Dabei versucht die höchste Spielklasse, die Major League Soccer, Differenzen zwischen dem nordamerikanischen und dem europäischen Sportverständnis zu überbrücken.. In den 1970er Jahren wechselten internationale Spitzenspieler zu amerikanischen Vereinen.
+So verpflichtete zum Beispiel New York Cosmos 1975 Pelé und 1977 Franz Beckenbauer.. Außerdem verpflichtete Los Angeles Galaxy im Jahr 2007 David Beckham und 2010 wurde Thierry Henry von den New York Red Bulls unter Vertrag genommen.
+Von 2011 bis 2016 war Jürgen Klinsmann Cheftrainer der US-amerikanischen Fußballnationalmannschaft.. Der Frauenfußball der Vereinigten Staaten ist international wesentlich erfolgreicher als der Männerfußball.
+Auch der Motorsport hat in den Vereinigten Staaten großen Publikumszuspruch.
+Die populärsten Rennserien sind NASCAR und INDYCAR.. Berühmt sind die 500 Meilen von Indianapolis und die Speedweek in Daytona Beach.
+Alljährlich sind auch die Formel 1 und die Motorrad-Weltmeisterschaften der MotoGP in den Vereinigten Staaten zu Gast.. Im Motorradsport großer Beliebtheit erfreuen sich auch die Dirt-Track-Rennen mit den Grand-National-Championships.
+In Kalifornien hat sich seit den frühen 1970er Jahren eine erfolgreiche Speedway-Szene etabliert und den Vereinigten Staaten mit seinen Speedway-Profis Bruce Penhall, Shawn Moran, Sam Ermolenko, Billy Hamill und Greg Hancock, die zusammen sechs Speedway-Einzelweltmeisterschaften gewonnen haben, fünf Weltmeister beschert.. Shawn Moran wurde 1983 Langbahn-Weltmeister.
+
+
+=== Feiertage ===
+
+Auch hinsichtlich der Feiertage besteht in den Vereinigten Staaten ein anderes Verständnis als in Europa.
+Prinzipiell gelten von der Regierung eingerichtete Feiertage nur für ihre Beamten und Angestellten, einschließlich der Mitarbeiter der Post.. Allerdings sind viele Feiertage wegen ihrer kulturellen Verankerung auch in der Wirtschaft Usus geworden.
+Die Feiertage in den Vereinigten Staaten sind mit Ausnahme des Weihnachts- und des Neujahresfestes aufgrund der strikten Trennung von Staat und Kirche nichtreligiöser, also vor allem patriotischer Natur.
+
+
+== Siehe auch ==
+
+Beziehungen zwischen Lateinamerika und den Vereinigten Staaten
+Beziehungen zwischen der Europäischen Union und den Vereinigten Staaten
+Amerikanisierung
+Antiamerikanismus
+American Studies, interdisziplinäres Wissenschaftsgebiet, das sich mit Geschichte, Politik, Gesellschaft, Kultur und Sprache der Vereinigten Staaten beschäftigt
+
+
+== Literatur ==
+Thomas Bender: A Nation Among Nations.. America’s Place in World History.
+New York 2006.
+Manfred Berg: Geschichte der USA.. Oldenbourg Verlag, München 2013, ISBN 978-3-486-70482-2.
+Volker Depkat: Geschichte Nordamerikas.
+Eine Einführung.. (Geschichte der Kontinente, Band 2).
+Böhlau, Köln 2008, ISBN 978-3-8252-2614-5.
+Roland Hahn: USA.. Neue Raumentwicklungen oder eine Neue Regionale Geographie.
+2.. Auflage.
+Klett-Perthes, Gotha/Stuttgart 2002, ISBN 3-623-00678-5.
+Jürgen Heideking, Christof Mauch: Geschichte der USA.. Mit CD-ROM Quellen zur Geschichte der USA.
+6.. aktualisierte Auflage.
+A.. Francke, Tübingen/Basel 2008, ISBN 978-3-8252-1938-3.
+Jill Lepore: Diese Wahrheiten.
+Eine Geschichte der Vereinigten Staaten von Amerika.. C.
+H.. Beck, München 2019, ISBN 978-3-406-73988-0.
+Peter Lösche (Hrsg.): Länderbericht USA – Geschichte, Politik, Wirtschaft, Gesellschaft, Kultur.
+Bundeszentrale für politische Bildung/bpb, Bonn 2004, ISBN 3-89331-485-7.. (5.
+neu bearb.. Aufl.
+ebd.. 2008, ISBN 978-3-89331-851-3)
+Bernd Stöver: United States of America.
+Geschichte und Kultur.. Von der ersten Kolonie bis zur Gegenwart.
+C.H.. Beck, München 2012, ISBN 978-3-406-63967-8.
+Ian Tyrrell: Transnational Nation.
+United States History in Global Perspective since 1789.. Palgrave Macmillan, Houndmills u.
+a.. 2007, ISBN 978-1-4039-9368-7.
+
+
+== Weblinks ==
+
+Linkkatalog zum Thema Vereinigte Staaten bei curlie.org (ehemals DMOZ)
+bpb.de: Dossier USA auf dem Informationsportal zur politischen Bildung
+destatis.de: Länderprofil USA des Statistischen Bundesamtes
+USA-Länderinformationen des Auswärtigen Amtes der Bundesrepublik Deutschland
+us-botschaft.de: Amerikanische diplomatische Vertretungen in der Bundesrepublik Deutschland
+
+
+== Anmerkungen ==
